@@ -5,7 +5,7 @@ export default function Home() {
         <img
           src="images/Final-logo-large.png"
           alt=""
-          className="w-24 lg:ml-5 rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+          className="w-24 lg:ml-5 rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out  cursor-pointer "
         />
 
         <img
@@ -17,7 +17,7 @@ export default function Home() {
         <img
           src="images/menu-kopiera.png"
           alt=""
-          className="w-8 md:w-12 lg:mr-10 mr-4  hover:scale-110 transition-transform duration-300 ease-in-out "
+          className="w-8 md:w-12 lg:mr-10 mr-4  hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
         />
       </header>
 
@@ -44,18 +44,18 @@ export default function Home() {
             <img
               src="images/hat.png"
               alt="Hat nr 1"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
 
             <img
               src="images/shirt-nr-3.png"
               alt="Image 2"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
             <img
               src="images/shirt-nr-1.png"
               alt="Image 3"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
           </div>
         </div>
@@ -106,18 +106,18 @@ export default function Home() {
             <img
               src="images/hat.png"
               alt="Hat nr 1"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
             />
 
             <img
               src="images/shirt-nr-3.png"
               alt="Image 2"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
             />
             <img
               src="images/shirt-nr-1.png"
               alt="Image 3"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out "
+              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
           </div>
         </div>
