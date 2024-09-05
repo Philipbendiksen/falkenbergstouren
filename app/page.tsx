@@ -9,7 +9,7 @@ export default function Home() {
         />
 
         <img
-          src="images/vit-text.png"
+          src="images/Vit-text.png"
           alt=""
           className="w-52 md:w-72 lg:w-96 pt-6 flex items-center "
         />
