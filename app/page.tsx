@@ -1,26 +1,6 @@
 export default function Home() {
   return (
     <main className=" bg-primary">
-      <header className="bg-primary p-2 flex items-center justify-between mx-auto rounded-lg shadow-lg">
-        <img
-          src="images/Final-logo-large.png"
-          alt=""
-          className="w-24 lg:ml-5 rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out  cursor-pointer "
-        />
-
-        <img
-          src="images/Vit-text.png"
-          alt=""
-          className="w-52 md:w-72 lg:w-96 pt-6 flex items-center "
-        />
-
-        <img
-          src="images/menu-kopiera.png"
-          alt=""
-          className="w-8 md:w-12 lg:mr-10 mr-4  hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-        />
-      </header>
-
       <section className="relative ">
         <img
           src="images/mtb.png"
@@ -29,11 +9,12 @@ export default function Home() {
         />
         <article className="bg-secondary/60 font-georgia p-4 rounded-lg lg:mr-10 lg:absolute top-40 lg:left-1/2">
           <p className="">
-            Vi på Skidaddle har en viktig grundtanke bakom allt vi gör och det
-            är ”As it was”. Hur var det på 90-talet när Oasis erövrade England?
-            Hur var det när Alperna faktiskt hade snö i sina backar? Och
-            viktigast av allt, vad hade folk på sig när allt detta hände? Det är
-            det vi vill återskapa med Skidaddle, en genuin 90-tals upplevelse.
+            Falkenberg har ett flertalet lopp av olika karaktär runt om i
+            komunen. Hade det inte varit roligt om alla dem sammarbetade med
+            varandra? Det tyckte iallfall vi som arrangerar loppet och därför
+            kommer vi under 2025 att starta "FalkenergsTouren"! Låter detta som
+            en rolig sak att vara en del av så tveka inte att anmäla dig till
+            något av våra lopp.{" "}
           </p>
         </article>
       </section>
