@@ -1,12 +1,14 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <main className=" bg-primary">
       <section className="relative ">
-        {/*    <Image
+        <img
           src="images/mtb.png"
           alt=""
           className="w-full md:h-96 object-cover object-center"
-        /> */}
+        />
         <article className="bg-secondary/60 font-georgia p-4 rounded-lg lg:mr-10 lg:absolute top-40 lg:left-1/2">
           <p className="">
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
@@ -22,7 +24,7 @@ export default function Home() {
       <section className="mt-10">
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            {/*      <Image
+            <Image
               src="images/hat.png"
               alt="Hat nr 1"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
@@ -37,7 +39,7 @@ export default function Home() {
               src="images/shirt-nr-1.png"
               alt="Image 3"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            /> */}
+            />
           </div>
         </div>
       </section>
@@ -84,7 +86,7 @@ export default function Home() {
       <section className="mt-10">
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            {/*     <Image
+            <Image
               src="images/hat.png"
               alt="Hat nr 1"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
@@ -99,7 +101,7 @@ export default function Home() {
               src="images/shirt-nr-1.png"
               alt="Image 3"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            /> */}
+            />
           </div>
         </div>
       </section>
