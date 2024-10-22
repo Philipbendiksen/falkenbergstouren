@@ -2,19 +2,19 @@ export default function Home() {
   return (
     <main className=" bg-primary">
       <section className="relative ">
-        <img
+        {/*    <Image
           src="images/mtb.png"
           alt=""
           className="w-full md:h-96 object-cover object-center"
-        />
+        /> */}
         <article className="bg-secondary/60 font-georgia p-4 rounded-lg lg:mr-10 lg:absolute top-40 lg:left-1/2">
           <p className="">
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
             komunen. Hade det inte varit roligt om alla dem sammarbetade med
             varandra? Det tyckte iallfall vi som arrangerar loppet och därför
-            kommer vi under 2025 att starta "FalkenergsTouren"! Låter detta som
-            en rolig sak att vara en del av så tveka inte att anmäla dig till
-            något av våra lopp.{" "}
+            kommer vi under 2025 att starta FalkenergsTouren! Låter detta som en
+            rolig sak att vara en del av så tveka inte att anmäla dig till något
+            av våra lopp.{" "}
           </p>
         </article>
       </section>
@@ -22,22 +22,22 @@ export default function Home() {
       <section className="mt-10">
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            <img
+            {/*      <Image
               src="images/hat.png"
               alt="Hat nr 1"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
 
-            <img
+            <Image
               src="images/shirt-nr-3.png"
               alt="Image 2"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
             />
-            <img
+            <Image
               src="images/shirt-nr-1.png"
               alt="Image 3"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
+            /> */}
           </div>
         </div>
       </section>
@@ -84,22 +84,22 @@ export default function Home() {
       <section className="mt-10">
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            <img
+            {/*     <Image
               src="images/hat.png"
               alt="Hat nr 1"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
             />
 
-            <img
+            <Image
               src="images/shirt-nr-3.png"
               alt="Image 2"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
             />
-            <img
+            <Image
               src="images/shirt-nr-1.png"
               alt="Image 3"
               className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
+            /> */}
           </div>
         </div>
       </section>
