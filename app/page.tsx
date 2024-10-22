@@ -1,22 +1,26 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className=" bg-primary">
-      <section className="relative ">
+    <main className="bg-primary">
+      <section className="relative">
         <Image
-          src="images/mtb.png"
-          alt=""
+          src="/images/Stadslopp.jpg"
+          alt="Mountain bike"
+          width={800} // Ange bildens bredd
+          height={600} // Ange bildens höjd
           className="w-full md:h-96 object-cover object-center"
         />
-        <article className="bg-secondary/60 font-georgia p-4 rounded-lg lg:mr-10 lg:absolute top-40 lg:left-1/2">
-          <p className="">
+        <article className="bg-secondary/60 font-georgia p-6 rounded-lg lg:mr-10 lg:absolute top-40 lg:left-1/2">
+          <p>
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
-            komunen. Hade det inte varit roligt om alla dem sammarbetade med
-            varandra? Det tyckte iallfall vi som arrangerar loppet och därför
-            kommer vi under 2025 att starta FalkenergsTouren! Låter detta som en
-            rolig sak att vara en del av så tveka inte att anmäla dig till något
-            av våra lopp.{" "}
+            kommunen. Hade det inte varit roligt om alla dem samarbetade med
+            varandra? Det tyckte iallafall vi som arrangerar loppen och därför
+            kommer vi under 2025 att starta FalkenbergsTouren! Låter detta som
+            en rolig upplevelse att vara en del av så tveka inte att anmäla dig
+            till något av våra lopp för att vara en del av FalkenbergsTouren
+            2025!
           </p>
         </article>
       </section>
@@ -24,25 +28,100 @@ export default function Home() {
       <section className="mt-10">
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            <Image
-              src="images/hat.png"
-              alt="Hat nr 1"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
+            <Link
+              href="https://www.falktouren.se/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/Allstars.jpg"
+                  alt="Allstars"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Allstarsloppet</span>
+              </div>
+            </Link>
 
-            <Image
-              src="images/shirt-nr-3.png"
-              alt="Image 2"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
-            <Image
-              src="images/shirt-nr-1.png"
-              alt="Image 3"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
+            <Link
+              href="https://www.facebook.com/profile.php?id=100069984736632"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/krogsered.jpg"
+                  alt="Krogsered"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Krogsered trailrun</span>
+              </div>
+            </Link>
+
+            <Link
+              href="https://raceid.com/sv/races/12140/information"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/hallandsloppet.jpg"
+                  alt="Hallandsloppet"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Hallandsloppet</span>
+              </div>
+            </Link>
           </div>
         </div>
       </section>
+
+      <section className="mt-10">
+        <div className="bg-secondary p-4 rounded-lg text-center">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
+            <Link
+              href="https://www.falkenbergsstadslopp.se/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/Stadslopp.jpg"
+                  alt="Falkenbergs Stadslopp"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Falkenbergs Stadslopp</span>
+              </div>
+            </Link>
+
+            <Link
+              href="https://halloweenloppet.fok.se/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/halloweenloppet.jpg"
+                  alt="Halloweenloppet"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Halloweenloppet</span>
+              </div>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       <section className="mt-10">
         <div className="bg-secondary p-6 rounded-lg h-80 text-center flex items-center justify-center">
           <form className="flex justify-center items-center rounded-xl h-full w-full md:w-2/3 bg-accent p-6 space-x-4 hover:scale-110 transition-transform duration-300 ease-in-out">
@@ -51,7 +130,7 @@ export default function Home() {
                 <label className="block text-sm text-gray-700"></label>
                 <input
                   type="text"
-                  className="mt-1 text-sm sm:text-lg  text-primary  p-2 border border-gray-300 rounded-md w-full "
+                  className="mt-1 text-sm sm:text-lg text-primary p-2 border border-gray-300 rounded-md w-full"
                   placeholder="Ditt namn"
                   required
                 />
@@ -60,7 +139,7 @@ export default function Home() {
                 <label className="block text-sm font-georgia text-gray-700"></label>
                 <input
                   type="email"
-                  className="mt-1 text-sm sm:text-lg font-georgia text-primary  p-2 border border-gray-300 rounded-md w-full"
+                  className="mt-1 text-sm sm:text-lg font-georgia text-primary p-2 border border-gray-300 rounded-md w-full"
                   placeholder="Din email"
                   required
                 />
@@ -74,8 +153,8 @@ export default function Home() {
             </div>
             <div className="w-1/2 ">
               <textarea
-                className=" mt-1 text-sm sm:text-lg p-2 font-georgia text-primary rounded-md w-full h-40"
-                placeholder="Kontakta oss? skriv här! "
+                className="mt-1 text-sm sm:text-lg p-2 font-georgia text-primary rounded-md w-full h-40"
+                placeholder="Kontakta oss? skriv här!"
                 required
               ></textarea>
             </div>
@@ -83,32 +162,9 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mt-10">
-        <div className="bg-secondary p-4 rounded-lg text-center">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
-            <Image
-              src="images/hat.png"
-              alt="Hat nr 1"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
-            />
-
-            <Image
-              src="images/shirt-nr-3.png"
-              alt="Image 2"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer"
-            />
-            <Image
-              src="images/shirt-nr-1.png"
-              alt="Image 3"
-              className="rounded-lg hover:scale-110 transition-transform duration-300 ease-in-out cursor-pointer "
-            />
-          </div>
-        </div>
-      </section>
-
-      <footer className="mt-10 p-5 text-center  bg-secondary rounded-lg">
+      <footer className="mt-10 p-5 text-center bg-secondary rounded-lg">
         <h2 className="font-georgia">
-          Copyright © Skidaddle 2023 - 2024 | All Rights Reserved
+          Copyright © FalkenbergsTouren 2024 - 2025 | All Rights Reserved
         </h2>
       </footer>
     </main>
