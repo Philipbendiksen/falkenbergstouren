@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className=" bg-primary">
       <section className="relative ">
-        <img
+        <Image
           src="images/mtb.png"
           alt=""
           className="w-full md:h-96 object-cover object-center"
