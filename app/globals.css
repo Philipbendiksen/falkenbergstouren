@@ -5,7 +5,6 @@
 :root {
   --foreground-rgb: 255, 255, 255; /* Vit text */
   --background-start-rgb: 214, 219, 220; /* Ljus bakgrund */
-  --background-end-rgb: 255, 255, 255; /* Ännu ljusare bakgrund */
 }
 
 body {
