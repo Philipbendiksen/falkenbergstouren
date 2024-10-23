@@ -1,8 +1,9 @@
-const info = () => {
+const Info = () => {
   return (
     <div className="text-3xl text-center mt-10">
       Här är lite mer information
     </div>
   );
 };
-export default info;
+
+export default Info;

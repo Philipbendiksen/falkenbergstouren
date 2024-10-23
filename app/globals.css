@@ -3,18 +3,32 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 255, 255, 255; /* Vit text */
-  --background-start-rgb: 214, 219, 220; /* Ljus bakgrund */
+  --foreground-rgb: 255, 255, 255; /* Standard vit text */
+  --background-start-rgb: 214, 219, 220; /* Ljus bakgrund start */
+  --background-end-rgb: 255, 255, 255; /* Ljus bakgrund slut */
 }
 
 body {
-  color: rgb(var(--foreground-rgb)); /* Alltid vit text */
+  color: rgb(var(--foreground-rgb)); /* Standard vit text */
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb)); /* Ljus bakgrund */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255; /* Vit text i mörkt läge */
+    --background-start-rgb: 0, 0, 0; /* Mörk bakgrund i mörkt läge */
+    --background-end-rgb: 0, 0, 0; /* Mörk bakgrund i mörkt läge */
+  }
+}
+
+/* Specificera regler för svart text när det behövs */
+.text-black {
+  color: black !important;
 }
 
 @layer utilities {
