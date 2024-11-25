@@ -18,9 +18,9 @@ export default function Home() {
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
             kommunen. Hade det inte varit roligt om alla dem samarbetade med
             varandra? Det tyckte iallafall vi som arrangerar loppen och därför
-            kommer vi under 2025 att starta FalkenbergsTouren! Låter detta som
+            kommer vi under 2025 att starta Tôur de Falkenberg! Låter detta som
             en rolig upplevelse att vara en del av så tveka inte att anmäla dig
-            till något av våra lopp för att vara en del av FalkenbergsTouren
+            till något av våra lopp för att vara en del av Tôur de Falkenberg
             2025!
           </p>
         </article>
@@ -127,7 +127,7 @@ export default function Home() {
 
       <footer className="mt-10 p-5 text-center bg-secondary rounded-lg">
         <h2 className="font-georgia">
-          Copyright © FalkenbergsTouren 2024 - 2025 | All Rights Reserved
+          Copyright © Tôur de Falkenberg 2024 - 2025 | All Rights Reserved
         </h2>
       </footer>
     </main>
