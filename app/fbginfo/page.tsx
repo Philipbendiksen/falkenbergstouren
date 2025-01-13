@@ -37,7 +37,6 @@ export default function FBGInfo() {
           />
           <p className="text-gray-500 m-4 text-sm mt-2"></p>
         </div>
-
         <section className="bg-green-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl mb-4 text-green-800 font-proxima font-bold">
             Natur
@@ -52,7 +51,6 @@ export default function FBGInfo() {
             fantastiska natur öppen för dig.
           </p>
         </section>
-
         <div>
           <Image
             src="/images/Morup.jpg"
@@ -63,7 +61,6 @@ export default function FBGInfo() {
           />
           <p className="text-gray-500 m-4 text-sm mt-2"></p>
         </div>
-
         <section className="bg-yellow-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl  mb-4 text-yellow-800 font-proxima font-bold">
             Mat
@@ -76,7 +73,6 @@ export default function FBGInfo() {
             dig att utmana dina smaklökar.
           </p>
         </section>
-
         <div>
           <Image
             src="/images/Napoli.jpg"
@@ -87,7 +83,6 @@ export default function FBGInfo() {
           />
           <p className="text-gray-500 m-4 text-sm mt-2"></p>
         </div>
-
         <section className="bg-purple-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl font-proxima font-bold mb-4 text-purple-800">
             Närhet
