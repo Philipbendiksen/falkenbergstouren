@@ -61,10 +61,10 @@ export default function FBGInfo() {
         <div>
           <Image
             src="/images/Morup.jpg"
-            alt="Tullbron i Falkenberg"
+            alt="Glommen"
             width={800}
             height={600}
-            className="w-full mt-6  md:w-3/4 m-auto h-72  rounded-lg shadow-lg object-cover object-center"
+            className="w-full mt-6  md:w-3/4 m-auto h-72 md:h-fit rounded-lg shadow-lg object-cover object-center"
           />
           <p className="text-gray-500 m-4 text-sm mt-2"></p>
         </div>
@@ -83,7 +83,7 @@ export default function FBGInfo() {
         <div>
           <Image
             src="/images/Napoli.jpg"
-            alt="Tullbron i Falkenberg"
+            alt="Napoli"
             width={800}
             height={600}
             className="w-full md:w-3/4 mt-6 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
