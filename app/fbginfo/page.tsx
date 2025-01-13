@@ -30,7 +30,7 @@ export default function FBGInfo() {
         <div>
           <Image
             src="/images/Bada.jpg"
-            alt="Tullbron i Falkenberg"
+            alt="Bada på Skrea Strand"
             width={800}
             height={600}
             className="w-full mt-6 md:w-3/4 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
