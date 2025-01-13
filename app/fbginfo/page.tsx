@@ -42,7 +42,9 @@ export default function FBGInfo() {
             height={600}
             className="w-full mt-6 md:w-3/4 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
           />
-          <p className="text-gray-500 m-4 text-sm mt-2"></p>
+          <p className="text-gray-500 text-center font-baskerville pb-6 text-sm mt-4">
+            Bada och koppla av på Skrea Strand
+          </p>
         </div>
         <section className="bg-green-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl mb-4 text-green-800 font-proxima font-bold">
@@ -64,9 +66,12 @@ export default function FBGInfo() {
             alt="Glommen"
             width={800}
             height={600}
-            className="w-full mt-6  md:w-3/4 m-auto h-72 md:h-fit rounded-lg shadow-lg object-cover object-center"
+            style={{ maxHeight: "580px" }}
+            className="w-full mt-6  md:w-3/4 m-auto h-fit rounded-lg shadow-lg object-cover object-center"
           />
-          <p className="text-gray-500 m-4 text-sm mt-2"></p>
+          <p className="text-gray-500 text-center  font-baskerville pb-6 text-sm mt-4">
+            Morups tånge med sin natursköna utsikt
+          </p>
         </div>
         <section className="bg-yellow-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl  mb-4 text-yellow-800 font-proxima font-bold">
@@ -88,7 +93,9 @@ export default function FBGInfo() {
             height={600}
             className="w-full md:w-3/4 mt-6 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
           />
-          <p className="text-gray-500 m-4 text-sm mt-2"></p>
+          <p className="text-gray-500 text-center  font-baskerville pb-6 text-sm mt-4">
+            Lilla Napoli en smak av Italien på den Hallandslänska kusten
+          </p>
         </div>
         <section className="bg-purple-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl font-proxima font-bold mb-4 text-purple-800">
@@ -102,19 +109,19 @@ export default function FBGInfo() {
             enklare och du får mer tid till det som finns bortom måsten.
           </p>
         </section>
-      </div>
 
-      <div>
-        <Image
-          src="/images/Tullbron.jpg"
-          alt="Tullbron i Falkenberg"
-          width={800}
-          height={600}
-          className="w-full md:w-3/4 mt-6 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
-        />
-        <p className="text-gray-500 font-baskerville pb-6 text-sm mt-4">
-          Tullbron – En ikonisk plats i Falkenberg.
-        </p>
+        <div>
+          <Image
+            src="/images/Tullbron.jpg"
+            alt="Tullbron i Falkenberg"
+            width={800}
+            height={600}
+            className="w-full md:w-3/4 mt-6 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
+          />
+          <p className="text-gray-500 text-center  font-baskerville pb-6 text-sm mt-4">
+            Tullbron – En ikonisk plats i Falkenberg.
+          </p>
+        </div>
       </div>
     </div>
   );
