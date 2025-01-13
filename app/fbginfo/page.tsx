@@ -11,6 +11,13 @@ export default function FBGInfo() {
         fantastisk mat och natur!
       </p>
 
+      <h2 className="font-proxima font-regular">
+        Läs mer på{" "}
+        <a className="underline" href="https://www.falkenberg.se">
+          falkenberg.se
+        </a>
+      </h2>
+
       <div className="text-left space-y-8">
         <section className="bg-blue-50 p-6 rounded-lg shadow-md">
           <h2 className="text-2xl mb-4 text-blue-800 font-proxima font-bold">
