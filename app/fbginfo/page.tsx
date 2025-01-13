@@ -29,7 +29,7 @@ export default function FBGInfo() {
 
         <div>
           <Image
-            src="/images/Bada.jpg"
+            src="/images/Bada1.jpg"
             alt="Bada på Skrea Strand"
             width={800}
             height={600}
