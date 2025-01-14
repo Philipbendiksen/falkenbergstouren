@@ -13,7 +13,12 @@ export default function FBGInfo() {
 
       <h2 className="font-proxima font-regular">
         Läs mer på{" "}
-        <a className="underline" href="https://www.falkenberg.se">
+        <a
+          className="underline"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.falkenberg.se"
+        >
           falkenberg.se
         </a>
       </h2>
@@ -119,7 +124,7 @@ export default function FBGInfo() {
             className="w-full md:w-3/4 mt-6 m-auto h-auto rounded-lg shadow-lg object-cover object-center"
           />
           <p className="text-gray-500 text-center  font-baskerville pb-6 text-sm mt-4">
-            Tullbron – En ikonisk plats i Falkenberg.
+            Tullbron – En ikonisk plats i Falkenberg
           </p>
         </div>
       </div>
