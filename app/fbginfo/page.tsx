@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function FBGInfo() {
   return (
-    <div className="text-center px-4 md:px-16 lg:px-32  bg-secondary">
-      <h1 className="text-4xl pt-8 font-proxima font-black mb-8 text-gray-800">
+    <div className="text-center p-4 md:px-16 lg:px-32  bg-secondary">
+      <h1 className="text-4xl pt-10 font-proxima font-black mb-8 text-gray-800">
         VÄLKOMMEN TILL FALKENBERG
       </h1>
       <p className="text-xl text-gray-600 mb-6 font-proxima font-regular">
