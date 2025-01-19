@@ -30,23 +30,6 @@ export default function Home() {
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
-              href="https://www.falktouren.se/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
-                <Image
-                  src="/images/Allstars.jpg"
-                  alt="Allstars"
-                  width={400} // Ange bildens bredd
-                  height={400} // Ange bildens höjd
-                  className="rounded-lg"
-                />
-                <span className="mt-2 font-georgia">Allstarsloppet</span>
-              </div>
-            </Link>
-
-            <Link
               href="https://www.facebook.com/profile.php?id=100069984736632"
               target="_blank"
               rel="noopener noreferrer"
@@ -79,13 +62,7 @@ export default function Home() {
                 <span className="mt-2 font-georgia">Hallandsloppet</span>
               </div>
             </Link>
-          </div>
-        </div>
-      </section>
 
-      <section className="mt-10">
-        <div className="bg-secondary p-4 rounded-lg text-center">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
               href="https://www.falkenbergsstadslopp.se/"
               target="_blank"
@@ -102,7 +79,13 @@ export default function Home() {
                 <span className="mt-2 font-georgia">Falkenbergs Stadslopp</span>
               </div>
             </Link>
+          </div>
+        </div>
+      </section>
 
+      <section className="mt-10">
+        <div className="bg-secondary p-4 rounded-lg text-center">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
               href="https://halloweenloppet.fok.se/"
               target="_blank"
@@ -117,6 +100,23 @@ export default function Home() {
                   className="rounded-lg"
                 />
                 <span className="mt-2 font-georgia">Halloweenloppet</span>
+              </div>
+            </Link>
+
+            <Link
+              href="https://www.falktouren.se/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+                <Image
+                  src="/images/Allstars.jpg"
+                  alt="Allstars"
+                  width={400} // Ange bildens bredd
+                  height={400} // Ange bildens höjd
+                  className="rounded-lg"
+                />
+                <span className="mt-2 font-georgia">Allstarsloppet</span>
               </div>
             </Link>
           </div>

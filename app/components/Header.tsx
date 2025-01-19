@@ -15,7 +15,7 @@ const Header = () => {
         {/* Rubrik */}
         <Link href="/">
           <h1 className="text-2xl md:text-3xl cursor-pointer mb-3 md:mb-0">
-            Tôur de Falkenberg
+            Tour de Falkenberg
           </h1>
         </Link>
 
