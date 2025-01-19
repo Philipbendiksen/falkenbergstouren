@@ -9,7 +9,7 @@ const Header = () => {
   const segment = useSelectedLayoutSegment(); // Hämta aktuell layout-segment
 
   return (
-    <header className="bg-primary md:h-20 p-2 flex flex-col md:flex-row text-center justify-between items-center rounded-lg shadow-lg">
+    <header className="bg-primary md:h-20 p-2 flex flex-col md:flex-row text-center justify-between items-center shadow-lg">
       {/* Flex-container för rubrik och bild */}
       <div className="flex items-center md:ml-12 m-4">
         {/* Rubrik */}
