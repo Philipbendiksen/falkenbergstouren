@@ -18,9 +18,9 @@ export default function Home() {
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
             kommunen. Hade det inte varit roligt om alla dem samarbetade med
             varandra? Det tyckte iallafall vi som arrangerar loppen och därför
-            kommer vi under 2025 att starta Tôur de Falkenberg! Låter detta som
+            kommer vi under 2025 att starta Tour de Falkenberg! Låter detta som
             en rolig upplevelse att vara en del av så tveka inte att anmäla dig
-            till något av våra lopp för att vara en del av Tôur de Falkenberg
+            till något av våra lopp för att vara en del av Tour de Falkenberg
             2025!
           </p>
         </article>
