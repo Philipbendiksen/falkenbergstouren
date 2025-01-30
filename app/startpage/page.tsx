@@ -87,15 +87,15 @@ export default function Home() {
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
-              href="https://halloweenloppet.fok.se/"
+              href="https://halloweenloppet.fok.se/?page_id=54"
               target="_blank"
               rel="noopener noreferrer"
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/halloweenloppet.jpg"
+                  src="/images/Halloweenloppet 2025 ny.jpg"
                   alt="Halloweenloppet"
-                  width={400} // Ange bildens bredd
+                  width={400} // Ange bildens bredd`
                   height={400} // Ange bildens höjd
                   className="rounded-lg"
                 />
