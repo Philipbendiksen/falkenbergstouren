@@ -47,7 +47,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://raceid.com/sv/races/12140/information"
+              href="https://raceid.com/sv/races/12999/about"
               target="_blank"
               rel="noopener noreferrer"
             >
