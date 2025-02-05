@@ -30,7 +30,7 @@ export default function Home() {
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
-              href="https://www.facebook.com/profile.php?id=100069984736632"
+              href="https://krogseredsik.se"
               target="_blank"
               rel="noopener noreferrer"
             >
