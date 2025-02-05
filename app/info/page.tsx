@@ -7,7 +7,7 @@ const Info = () => {
         Information om Tour de Falkenberg 2025
       </div>
 
-      <div className="m-14">
+      <div className="mb-14 ml-14 mr-14 mt-4">
         <Image
           src="/images/Reklamblad.jpg"
           alt="Bada på Skrea Strand"
