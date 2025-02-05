@@ -36,11 +36,11 @@ export default function Home() {
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/krogsered.jpg"
+                  src="/images/KrogseredsTrailRUN2025.jpg"
                   alt="Krogsered"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg"
+                  className="rounded-lg min-h-64"
                 />
                 <span className="mt-2 font-georgia">Krogsered trailrun</span>
               </div>
@@ -57,7 +57,7 @@ export default function Home() {
                   alt="Hallandsloppet"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg"
+                  className="rounded-lg max-h-64"
                 />
                 <span className="mt-2 font-georgia">Hallandsloppet</span>
               </div>
@@ -74,7 +74,7 @@ export default function Home() {
                   alt="Falkenbergs Stadslopp"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg"
+                  className="rounded-lg max-h-64"
                 />
                 <span className="mt-2 font-georgia">Falkenbergs Stadslopp</span>
               </div>
@@ -97,7 +97,7 @@ export default function Home() {
                   alt="Halloweenloppet"
                   width={400} // Ange bildens bredd`
                   height={400} // Ange bildens höjd
-                  className="rounded-lg"
+                  className="rounded-lg max-h-64"
                 />
                 <span className="mt-2 font-georgia">Halloweenloppet</span>
               </div>
@@ -114,9 +114,9 @@ export default function Home() {
                   alt="Allstars"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg"
+                  className="rounded-lg max-h-64"
                 />
-                <span className="mt-2 font-georgia">Allstarsloppet</span>
+                <span className="mt-2 font-georgia">Falktrailen</span>
               </div>
             </Link>
           </div>
