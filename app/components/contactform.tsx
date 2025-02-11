@@ -14,10 +14,13 @@ const ContactForm = () => {
     // Typkonvertera e.target till HTMLFormElement
     const form = e.target as HTMLFormElement;
 
-    // Kontrollera att alla miljövariabler är definierade
-    const serviceId = process.env.REACT_APP_SERVICE_ID; // Ditt serviceId
-    const templateId = process.env.REACT_APP_TEMPLATE_ID; // Din mall
-    const publicKey = process.env.REACT_APP_PUBLIC_KEY; // Din offentliga nyckel
+    const serviceId = process.env.NEXT_PUBLIC_SERVICE_ID;
+    const templateId = process.env.NEXT_PUBLIC_TEMPLATE_ID;
+    const publicKey = process.env.NEXT_PUBLIC_PUBLIC_KEY;
+
+    console.log("Service ID:", serviceId);
+    console.log("Template ID:", templateId);
+    console.log("Public Key:", publicKey);
 
     if (!serviceId || !templateId || !publicKey) {
       setStateMessage("Konfiguration saknas. Kontrollera dina miljövariabler.");
