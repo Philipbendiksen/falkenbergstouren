@@ -110,11 +110,11 @@ export default function Home() {
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/Allstars.jpg"
+                  src="/images/FalkenbergsAllstars.jpg"
                   alt="Allstars"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg max-h-64"
+                  className="rounded-lg max-h-64 min-h-64"
                 />
                 <span className="mt-2 font-georgia">Falktrailen</span>
               </div>
