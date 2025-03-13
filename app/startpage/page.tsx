@@ -104,7 +104,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://www.falktouren.se/"
+              href="https://event.falktouren.se/event"
               target="_blank"
               rel="noopener noreferrer"
             >
