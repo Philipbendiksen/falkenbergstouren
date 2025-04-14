@@ -9,7 +9,7 @@ const Results = () => {
   return (
     <div className=" bg-primary flex flex-col items-center p-4">
       <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">
-        Här kommer resultaten
+        Poängställning - Tour de Falkenberg 2025
       </h1>
 
       {/* Menyn */}
