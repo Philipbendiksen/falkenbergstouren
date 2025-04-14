@@ -32,7 +32,7 @@ const Header = () => {
       </div>
       {/* Menyn */}
       <ul className="flex justify-center space-x-12 md:mr-16 mb-1">
-        <Link href="/resultat">
+        <Link href="/resultat/5kmDam">
           <li
             className={`cursor-pointer ${
               segment === "resultat" ? "border-b-2 border-black" : ""
