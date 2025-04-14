@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useSelectedLayoutSegment } from "next/navigation";
+import { usePathname } from "next/navigation";
 
 const Results = () => {
-  const segment = useSelectedLayoutSegment(); // Hämta aktuell layout-segment
+  const pathname = usePathname();
 
   return (
     <div className=" bg-primary flex flex-col items-center p-4">
@@ -19,7 +19,9 @@ const Results = () => {
             <Link
               href="/resultat/5kmDam"
               className={`hover:text-black transition ${
-                segment === "5kmDam" ? "border-b-2 border-black" : ""
+                pathname?.includes("/resultat/5kmDam")
+                  ? "border-b-2 border-black"
+                  : ""
               }`}
             >
               Dam 5km
@@ -29,7 +31,9 @@ const Results = () => {
             <Link
               href="/resultat/5kmHerr"
               className={`hover:text-black transition ${
-                segment === "5kmHerr" ? "border-b-2 border-black" : ""
+                pathname?.includes("/resultat/5kmHerr")
+                  ? "border-b-2 border-black"
+                  : ""
               }`}
             >
               Herr 5km
@@ -39,7 +43,9 @@ const Results = () => {
             <Link
               href="/resultat/10kmHerr"
               className={`hover:text-black transition ${
-                segment === "10kmHerr" ? "border-b-2 border-black" : ""
+                pathname?.includes("/resultat/10kmHerr")
+                  ? "border-b-2 border-black"
+                  : ""
               }`}
             >
               Herr 10km
@@ -49,7 +55,9 @@ const Results = () => {
             <Link
               href="/resultat/10kmDam"
               className={`hover:text-black transition ${
-                segment === "10kmDam" ? "border-b-2 border-black" : ""
+                pathname?.includes("/resultat/10kmDam")
+                  ? "border-b-2 border-black"
+                  : ""
               }`}
             >
               Dam 10km
