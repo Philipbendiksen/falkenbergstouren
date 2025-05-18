@@ -340,23 +340,6 @@
     "": ""
   },
   {
-    "ID": "108",
-    "Förnamn": "Linus",
-    "Efternamn": "Fortuna",
-    "Dubbletter?": "",
-    "Klubb/ort": "Rambros for life",
-    "Mail": "linusfortuna7@gmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "",
-    "Hallandsloppet": "27",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "27",
-    "Antal lopp": "1",
-    "": ""
-  },
-  {
     "ID": "31",
     "Förnamn": "Daniel",
     "Efternamn": "Ivarsson",
@@ -371,6 +354,23 @@
     "Falktrailen": "",
     "Totalpoäng": "28",
     "Antal lopp": "2",
+    "": ""
+  },
+  {
+    "ID": "108",
+    "Förnamn": "Linus",
+    "Efternamn": "Fortuna",
+    "Dubbletter?": "",
+    "Klubb/ort": "Rambros for life",
+    "Mail": "linusfortuna7@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "27",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "27",
+    "Antal lopp": "1",
     "": ""
   },
   {
