@@ -340,6 +340,23 @@
     "": ""
   },
   {
+    "ID": "108",
+    "Förnamn": "Linus",
+    "Efternamn": "Fortuna",
+    "Dubbletter?": "",
+    "Klubb/ort": "Rambros for life",
+    "Mail": "linusfortuna7@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "27",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "27",
+    "Antal lopp": "1",
+    "": ""
+  },
+  {
     "ID": "31",
     "Förnamn": "Daniel",
     "Efternamn": "Ivarsson",
@@ -731,6 +748,23 @@
     "": ""
   },
   {
+    "ID": "46",
+    "Förnamn": "P-A",
+    "Efternamn": "Jacobsson",
+    "Dubbletter?": "P-A Jacobsson",
+    "Klubb/ort": "Falkenbergs OK",
+    "Mail": "Pa.jacobsson77@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "1",
+    "Hallandsloppet": "13",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "14",
+    "Antal lopp": "2",
+    "": ""
+  },
+  {
     "ID": "80",
     "Förnamn": "Christer",
     "Efternamn": "Davidsson",
@@ -847,6 +881,23 @@
     "Falktrailen": "",
     "Totalpoäng": "11",
     "Antal lopp": "1",
+    "": ""
+  },
+  {
+    "ID": "48",
+    "Förnamn": "Rasmus",
+    "Efternamn": "Johansson",
+    "Dubbletter?": "",
+    "Klubb/ort": "Horred",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "1",
+    "Hallandsloppet": "10",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "11",
+    "Antal lopp": "2",
     "": ""
   },
   {
@@ -969,23 +1020,6 @@
     "": ""
   },
   {
-    "ID": "46",
-    "Förnamn": "P-A",
-    "Efternamn": "Jacobsson",
-    "Dubbletter?": "P-A Jacobsson",
-    "Klubb/ort": "Falkenbergs OK",
-    "Mail": "Pa.jacobsson77@gmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "1",
-    "Hallandsloppet": "6",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "7",
-    "Antal lopp": "2",
-    "": ""
-  },
-  {
     "ID": "87",
     "Förnamn": "Tobias",
     "Efternamn": "Johansson",
@@ -1051,23 +1085,6 @@
     "Falktrailen": "",
     "Totalpoäng": "4",
     "Antal lopp": "1",
-    "": ""
-  },
-  {
-    "ID": "64",
-    "Förnamn": "Rasmus",
-    "Efternamn": "Johansson",
-    "Dubbletter?": "",
-    "Klubb/ort": "Horred",
-    "Mail": "",
-    "Telefon": "",
-    "Krogsereds traillopp": "1",
-    "Hallandsloppet": "3",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "4",
-    "Antal lopp": "2",
     "": ""
   },
   {

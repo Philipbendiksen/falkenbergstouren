@@ -323,6 +323,23 @@
     "": ""
   },
   {
+    "ID": "60",
+    "Förnamn": "Johanna",
+    "Efternamn": "Ekman Hassel",
+    "Dubbletter?": "",
+    "Klubb/ort": "",
+    "Mail": "johanna.ekmanhassel@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "31",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "31",
+    "Antal lopp": "1",
+    "": ""
+  },
+  {
     "ID": "42",
     "Förnamn": "Felicia",
     "Efternamn": "Emanuelsson",
@@ -404,6 +421,23 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "29",
+    "Antal lopp": "1",
+    "": ""
+  },
+  {
+    "ID": "61",
+    "Förnamn": "Angelika",
+    "Efternamn": "Fortuna",
+    "Dubbletter?": "",
+    "Klubb/ort": "",
+    "Mail": "angelika.fortuna@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "28",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "28",
     "Antal lopp": "1",
     "": ""
   },
