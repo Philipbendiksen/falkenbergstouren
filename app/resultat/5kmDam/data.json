@@ -204,6 +204,23 @@
     "": ""
   },
   {
+    "ID": "48",
+    "Förnamn": "Susanne",
+    "Efternamn": "Larsson",
+    "Dubbletter?": "Susanne Larsson",
+    "Klubb/ort": "OK Gläntan Vessigebro",
+    "Mail": "susanne.al.larsson@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "12",
+    "Hallandsloppet": "24",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "",
+    "Totalpoäng": "36",
+    "Antal lopp": "2",
+    "": ""
+  },
+  {
     "ID": "42",
     "Förnamn": "Julia",
     "Efternamn": "Dahlin",
@@ -527,23 +544,6 @@
     "": ""
   },
   {
-    "ID": "48",
-    "Förnamn": "Susanne",
-    "Efternamn": "Larsson",
-    "Dubbletter?": "Susanne Larsson",
-    "Klubb/ort": "OK Gläntan Vessigebro",
-    "Mail": "susanne.al.larsson@gmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "",
-    "Hallandsloppet": "24",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "24",
-    "Antal lopp": "1",
-    "": ""
-  },
-  {
     "ID": "18",
     "Förnamn": "Berit",
     "Efternamn": "Andersson",
@@ -744,23 +744,6 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "13",
-    "Antal lopp": "1",
-    "": ""
-  },
-  {
-    "ID": "29",
-    "Förnamn": "Susanne",
-    "Efternamn": "Larsson",
-    "Dubbletter?": "Susanne Larsson",
-    "Klubb/ort": "Fegen",
-    "Mail": "0",
-    "Telefon": "",
-    "Krogsereds traillopp": "12",
-    "Hallandsloppet": "",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "12",
     "Antal lopp": "1",
     "": ""
   },
