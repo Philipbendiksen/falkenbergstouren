@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import Sponsors from "../components/Sponsors";
 import ContactForm from "../components/contactform";
 
 export default function Home() {
@@ -122,6 +123,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <Sponsors></Sponsors>
 
       <ContactForm></ContactForm>
     </main>

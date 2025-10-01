@@ -59,7 +59,7 @@ const Header = () => {
             Bilder
           </li>
         </Link>
-        <Link href="/fbginfo">
+        {/* <Link href="/fbginfo">
           <li
             className={`cursor-pointer ${
               segment === "fbginfo" ? "border-b-2 border-black" : ""
@@ -67,7 +67,7 @@ const Header = () => {
           >
             Falkenberg
           </li>
-        </Link>
+        </Link> */}
       </ul>
     </header>
   );
