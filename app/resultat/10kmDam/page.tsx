@@ -21,7 +21,7 @@ const dam10km = () => {
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-200">
-              {data.map((person) => (
+              {data[0].map((person) => (
                 <tr
                   key={person.ID}
                   className="hover:bg-gray-50 transition-colors duration-200"
