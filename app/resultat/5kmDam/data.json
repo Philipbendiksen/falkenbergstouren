@@ -3,7 +3,7 @@
     "ID": "1",
     "Förnamn": "Vanja",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Vanja Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Halmstad Garnisons idrottsförening",
     "Mail": "miss_vanja@hotmail.com",
     "Telefon": "",
@@ -11,16 +11,15 @@
     "Hallandsloppet": "39",
     "Stadsloppet": "",
     "Halloweenloppet": "40",
-    "Falktrailen": "",
-    "Totalpoäng": "119",
-    "Antal lopp": "3",
-    "": ""
+    "Falktrailen": "39",
+    "Totalpoäng": "158",
+    "Antal lopp": "4"
   },
   {
     "ID": "2",
     "Förnamn": "Evelina",
     "Efternamn": "Grimstad",
-    "Dubbletter?": "Evelina Grimstad",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Mölndals AIK",
     "Mail": "evelina.grimstad@protonmail.com",
     "Telefon": "",
@@ -28,16 +27,15 @@
     "Hallandsloppet": "38",
     "Stadsloppet": "",
     "Halloweenloppet": "38",
-    "Falktrailen": "",
-    "Totalpoäng": "115",
-    "Antal lopp": "3",
-    "": ""
+    "Falktrailen": "37",
+    "Totalpoäng": "152",
+    "Antal lopp": "4"
   },
   {
     "ID": "3",
     "Förnamn": "Agnieszka",
     "Efternamn": "Trzaska",
-    "Dubbletter?": "Agnieszka Trzaska",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Ingen klubb",
     "Mail": "batoragnieszka@gmail.com",
     "Telefon": "",
@@ -45,16 +43,15 @@
     "Hallandsloppet": "33",
     "Stadsloppet": "",
     "Halloweenloppet": "35",
-    "Falktrailen": "",
-    "Totalpoäng": "101",
-    "Antal lopp": "3",
-    "": ""
+    "Falktrailen": "33",
+    "Totalpoäng": "134",
+    "Antal lopp": "4"
   },
   {
     "ID": "4",
     "Förnamn": "Louise",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Louise Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Surte Rönners",
     "Mail": "lodjuret_karlsson@hotmail.com",
     "Telefon": "",
@@ -62,16 +59,79 @@
     "Hallandsloppet": "37",
     "Stadsloppet": "",
     "Halloweenloppet": "39",
-    "Falktrailen": "",
-    "Totalpoäng": "76",
-    "Antal lopp": "2",
-    "": ""
+    "Falktrailen": "38",
+    "Totalpoäng": "114",
+    "Antal lopp": "3"
+  },
+  {
+    "ID": "9",
+    "Förnamn": "Susanne",
+    "Efternamn": "Larsson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "OK Gläntan Vessigebro",
+    "Mail": "susanne.al.larsson@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "12",
+    "Hallandsloppet": "24",
+    "Stadsloppet": "",
+    "Halloweenloppet": "12",
+    "Falktrailen": "22",
+    "Totalpoäng": "70",
+    "Antal lopp": "4"
+  },
+  {
+    "ID": "43",
+    "Förnamn": "Marianne",
+    "Efternamn": "Johansson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Krogsereds IK",
+    "Mail": "pellepilon@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "24",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "19",
+    "Falktrailen": "25",
+    "Totalpoäng": "68",
+    "Antal lopp": "3"
+  },
+  {
+    "ID": "21",
+    "Förnamn": "Alva",
+    "Efternamn": "Johansson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Falkenbergs OK",
+    "Mail": "martin@falo.se",
+    "Telefon": "",
+    "Krogsereds traillopp": "34",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "30",
+    "Totalpoäng": "64",
+    "Antal lopp": "2"
+  },
+  {
+    "ID": "29",
+    "Förnamn": "Kristina",
+    "Efternamn": "Vannerberg",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Gårdsfys i Sibbarp",
+    "Mail": "kristina@torkelbb.se",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "31",
+    "Falktrailen": "31",
+    "Totalpoäng": "62",
+    "Antal lopp": "2"
   },
   {
     "ID": "5",
     "Förnamn": "Marie",
     "Efternamn": "Östlund",
-    "Dubbletter?": "Marie Östlund",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "KINNARED",
     "Mail": "marie.oestlund@gmail.com",
     "Telefon": "",
@@ -81,14 +141,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "60",
-    "Antal lopp": "2",
-    "": ""
+    "Antal lopp": "2"
   },
   {
     "ID": "6",
     "Förnamn": "Josefin",
     "Efternamn": "Söderström",
-    "Dubbletter?": "Josefin Söderström",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Krogsereds IK",
     "Mail": "joss_soderstrom@hotmail.com",
     "Telefon": "",
@@ -98,14 +157,13 @@
     "Halloweenloppet": "30",
     "Falktrailen": "",
     "Totalpoäng": "59",
-    "Antal lopp": "2",
-    "": ""
+    "Antal lopp": "2"
   },
   {
     "ID": "7",
     "Förnamn": "Caroline",
     "Efternamn": "Johansson",
-    "Dubbletter?": "Caroline Johansson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "caroline.morup@gmail.com",
     "Telefon": "",
@@ -115,14 +173,61 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "58",
-    "Antal lopp": "2",
-    "": ""
+    "Antal lopp": "2"
+  },
+  {
+    "ID": "36",
+    "Förnamn": "Sara",
+    "Efternamn": "Persson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Himle kök",
+    "Mail": "saraaa124@hotmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "26",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "27",
+    "Totalpoäng": "53",
+    "Antal lopp": "2"
+  },
+  {
+    "ID": "20",
+    "Förnamn": "Anette",
+    "Efternamn": "Håkansson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Falkenberg",
+    "Mail": "aniara43@live.se",
+    "Telefon": "",
+    "Krogsereds traillopp": "7",
+    "Hallandsloppet": "21",
+    "Stadsloppet": "",
+    "Halloweenloppet": "7",
+    "Falktrailen": "17",
+    "Totalpoäng": "52",
+    "Antal lopp": "4"
+  },
+  {
+    "ID": "40",
+    "Förnamn": "Kristina",
+    "Efternamn": "Josefsson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Falkenbergs RR",
+    "Mail": "pellepilon@gmail.com",
+    "Telefon": "",
+    "Krogsereds traillopp": "5",
+    "Hallandsloppet": "20",
+    "Stadsloppet": "",
+    "Halloweenloppet": "9",
+    "Falktrailen": "16",
+    "Totalpoäng": "50",
+    "Antal lopp": "4"
   },
   {
     "ID": "8",
     "Förnamn": "Lotta",
     "Efternamn": "Svensson",
-    "Dubbletter?": "Lotta Svensson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Vanered",
     "Mail": "otasvensson@gmail.com",
     "Telefon": "",
@@ -132,31 +237,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "49",
-    "Antal lopp": "2",
-    "": ""
-  },
-  {
-    "ID": "9",
-    "Förnamn": "Susanne",
-    "Efternamn": "Larsson",
-    "Dubbletter?": "Susanne Larsson",
-    "Klubb/ort": "OK Gläntan Vessigebro",
-    "Mail": "susanne.al.larsson@gmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "12",
-    "Hallandsloppet": "24",
-    "Stadsloppet": "",
-    "Halloweenloppet": "12",
-    "Falktrailen": "",
-    "Totalpoäng": "48",
-    "Antal lopp": "3",
-    "": ""
+    "Antal lopp": "2"
   },
   {
     "ID": "10",
     "Förnamn": "Ina",
     "Efternamn": "Jacobsson",
-    "Dubbletter?": "Ina Jacobsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenbergs OK",
     "Mail": "inajakobsson05@gmail.com",
     "Telefon": "",
@@ -166,31 +253,13 @@
     "Halloweenloppet": "15",
     "Falktrailen": "",
     "Totalpoäng": "45",
-    "Antal lopp": "3",
-    "": ""
-  },
-  {
-    "ID": "43",
-    "Förnamn": "Marianne",
-    "Efternamn": "Johansson",
-    "Dubbletter?": "Marianne Johansson",
-    "Klubb/ort": "Krogsereds IK",
-    "Mail": "pellepilon@gmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "24",
-    "Hallandsloppet": "",
-    "Stadsloppet": "",
-    "Halloweenloppet": "19",
-    "Falktrailen": "",
-    "Totalpoäng": "43",
-    "Antal lopp": "2",
-    "": ""
+    "Antal lopp": "3"
   },
   {
     "ID": "11",
     "Förnamn": "Louise",
     "Efternamn": "Nilsson",
-    "Dubbletter?": "Louise Nilsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg Allstars",
     "Mail": "louise-nilsson@telia.com",
     "Telefon": "",
@@ -200,14 +269,29 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "40",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Vilma",
+    "Efternamn": "Atthage",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Ängelholms IF",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "40",
+    "Totalpoäng": "40",
+    "Antal lopp": "1"
   },
   {
     "ID": "12",
     "Förnamn": "Linnea",
     "Efternamn": "Johnsson",
-    "Dubbletter?": "Linnea Johnsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "OK Nackhe",
     "Mail": "johnssonlinnea@gmail.com",
     "Telefon": "",
@@ -217,14 +301,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "38",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "13",
     "Förnamn": "Rita",
     "Efternamn": "Palmelund",
-    "Dubbletter?": "Rita Palmelund",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "OK Gläntan",
     "Mail": "ritapalmelund@gmail.com",
     "Telefon": "",
@@ -234,14 +317,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "37",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "14",
     "Förnamn": "Thelma",
     "Efternamn": "Holgersson",
-    "Dubbletter?": "Thelma Holgersson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "thelma_holgersson@hotmail.com",
     "Telefon": "",
@@ -251,14 +333,13 @@
     "Halloweenloppet": "37",
     "Falktrailen": "",
     "Totalpoäng": "37",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "15",
     "Förnamn": "Viktoria",
     "Efternamn": "Bengtsson",
-    "Dubbletter?": "Viktoria Bengtsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "vicke._@hotmail.com",
     "Telefon": "",
@@ -268,14 +349,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "36",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "16",
     "Förnamn": "Fanny",
     "Efternamn": "Bengtsson",
-    "Dubbletter?": "Fanny Bengtsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Krogsereds IK",
     "Mail": "fannybengtsson5@hotmail.com",
     "Telefon": "",
@@ -285,14 +365,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "36",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "17",
     "Förnamn": "Elin",
     "Efternamn": "Sjödin Svahn",
-    "Dubbletter?": "Elin Sjödin Svahn",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "OK Nackhe",
     "Mail": "elinsjodin_3@hotmail.com",
     "Telefon": "",
@@ -302,14 +381,29 @@
     "Halloweenloppet": "36",
     "Falktrailen": "",
     "Totalpoäng": "36",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Isabel",
+    "Efternamn": "Jakobsen",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Falkenberg",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "36",
+    "Totalpoäng": "36",
+    "Antal lopp": "1"
   },
   {
     "ID": "18",
     "Förnamn": "Julia",
     "Efternamn": "Dahlin",
-    "Dubbletter?": "Julia Dahlin",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Ugglor i mossen",
     "Mail": "dahlinvbg@hotmail.com",
     "Telefon": "",
@@ -319,14 +413,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "35",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "19",
     "Förnamn": "Marie",
     "Efternamn": "Gustavsson",
-    "Dubbletter?": "Marie Gustavsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Ingen",
     "Mail": "Gustavsson.marie@hotmail.com",
     "Telefon": "",
@@ -336,48 +429,29 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "35",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
-    "ID": "20",
-    "Förnamn": "Anette",
-    "Efternamn": "Håkansson",
-    "Dubbletter?": "Anette Håkansson",
-    "Klubb/ort": "Falkenberg",
-    "Mail": "aniara43@live.se",
+    "ID": "",
+    "Förnamn": "Pernille",
+    "Efternamn": "Jägerström",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Varberg",
+    "Mail": "",
     "Telefon": "",
-    "Krogsereds traillopp": "7",
-    "Hallandsloppet": "21",
-    "Stadsloppet": "",
-    "Halloweenloppet": "7",
-    "Falktrailen": "",
-    "Totalpoäng": "35",
-    "Antal lopp": "3",
-    "": ""
-  },
-  {
-    "ID": "21",
-    "Förnamn": "Alva",
-    "Efternamn": "Johansson",
-    "Dubbletter?": "Alva Johansson",
-    "Klubb/ort": "Falkenbergs OK",
-    "Mail": "martin@falo.se",
-    "Telefon": "",
-    "Krogsereds traillopp": "34",
+    "Krogsereds traillopp": "",
     "Hallandsloppet": "",
     "Stadsloppet": "",
     "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "34",
-    "Antal lopp": "1",
-    "": ""
+    "Falktrailen": "35",
+    "Totalpoäng": "35",
+    "Antal lopp": "1"
   },
   {
     "ID": "22",
     "Förnamn": "Inez",
     "Efternamn": "Ling",
-    "Dubbletter?": "Inez Ling",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "OK Gläntan Vessigebro",
     "Mail": "john.ling3@sodra.com",
     "Telefon": "",
@@ -387,14 +461,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "34",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "23",
     "Förnamn": "Line",
     "Efternamn": "Nygård",
-    "Dubbletter?": "Line Nygård",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "lnygard@gmail.com",
     "Telefon": "",
@@ -404,31 +477,29 @@
     "Halloweenloppet": "34",
     "Falktrailen": "",
     "Totalpoäng": "34",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
-    "ID": "40",
-    "Förnamn": "Kristina",
-    "Efternamn": "Josefsson",
-    "Dubbletter?": "Kristina Josefsson",
-    "Klubb/ort": "Falkenbergs RR",
-    "Mail": "pellepilon@gmail.com",
+    "ID": "",
+    "Förnamn": "Moa",
+    "Efternamn": "Eriksson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Gårdsfys i Sibbarp",
+    "Mail": "",
     "Telefon": "",
-    "Krogsereds traillopp": "5",
-    "Hallandsloppet": "20",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
     "Stadsloppet": "",
-    "Halloweenloppet": "9",
-    "Falktrailen": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "34",
     "Totalpoäng": "34",
-    "Antal lopp": "3",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "24",
     "Förnamn": "Catrin",
     "Efternamn": "Lämpegård",
-    "Dubbletter?": "Catrin Lämpegård",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Frillesås",
     "Mail": "ocatrin@hotmail.com",
     "Telefon": "",
@@ -438,14 +509,13 @@
     "Halloweenloppet": "33",
     "Falktrailen": "",
     "Totalpoäng": "33",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "25",
     "Förnamn": "Isabella",
     "Efternamn": "Hall",
-    "Dubbletter?": "Isabella Hall",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "isabellamartahall@hotmail.com",
     "Telefon": "",
@@ -455,14 +525,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "32",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "26",
     "Förnamn": "Anna",
     "Efternamn": "Jaroch",
-    "Dubbletter?": "Anna Jaroch",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Tvååker",
     "Mail": "0",
     "Telefon": "",
@@ -472,14 +541,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "32",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "27",
     "Förnamn": "My",
     "Efternamn": "Jönsson",
-    "Dubbletter?": "My Jönsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Töringe",
     "Mail": "info@rullan.se",
     "Telefon": "",
@@ -489,14 +557,29 @@
     "Halloweenloppet": "32",
     "Falktrailen": "",
     "Totalpoäng": "32",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Terese",
+    "Efternamn": "Tapper",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Halmstad",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "32",
+    "Totalpoäng": "32",
+    "Antal lopp": "1"
   },
   {
     "ID": "28",
     "Förnamn": "Sanns",
     "Efternamn": "Isaksson",
-    "Dubbletter?": "Sanns Isaksson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "sanna.nyberg@hotmail.com",
     "Telefon": "",
@@ -506,31 +589,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "31",
-    "Antal lopp": "1",
-    "": ""
-  },
-  {
-    "ID": "29",
-    "Förnamn": "Kristina",
-    "Efternamn": "Vannerberg",
-    "Dubbletter?": "Kristina Vannerberg",
-    "Klubb/ort": "Gårdsfys i Sibbarp",
-    "Mail": "kristina@torkelbb.se",
-    "Telefon": "",
-    "Krogsereds traillopp": "",
-    "Hallandsloppet": "",
-    "Stadsloppet": "",
-    "Halloweenloppet": "31",
-    "Falktrailen": "",
-    "Totalpoäng": "31",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "30",
     "Förnamn": "Linn",
     "Efternamn": "Larsson",
-    "Dubbletter?": "Linn Larsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "linn.larsson94@live.se",
     "Telefon": "",
@@ -540,14 +605,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "30",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "31",
     "Förnamn": "Hanna",
     "Efternamn": "Tangfelt",
-    "Dubbletter?": "Hanna Tangfelt",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "Hannawennersten@live.se",
     "Telefon": "",
@@ -557,14 +621,29 @@
     "Halloweenloppet": "29",
     "Falktrailen": "",
     "Totalpoäng": "29",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Cecilia",
+    "Efternamn": "Lundquist",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "Halmstad",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "29",
+    "Totalpoäng": "29",
+    "Antal lopp": "1"
   },
   {
     "ID": "32",
     "Förnamn": "Annie",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Annie Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Störshult",
     "Mail": "andreas.kalv@hotmail.com",
     "Telefon": "",
@@ -574,14 +653,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "28",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "33",
     "Förnamn": "Ebba",
     "Efternamn": "Barrett",
-    "Dubbletter?": "Ebba Barrett",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Vesslunda Runners",
     "Mail": "ebba.barrett@live.se",
     "Telefon": "",
@@ -591,14 +669,29 @@
     "Halloweenloppet": "28",
     "Falktrailen": "",
     "Totalpoäng": "28",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Annie",
+    "Efternamn": "Bengtsson",
+    "Dubbletter?": "Err:509",
+    "Klubb/ort": "WSP",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "28",
+    "Totalpoäng": "28",
+    "Antal lopp": "1"
   },
   {
     "ID": "34",
     "Förnamn": "Camilla",
     "Efternamn": "Arvidsson",
-    "Dubbletter?": "Camilla Arvidsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Fegen",
     "Mail": "0",
     "Telefon": "",
@@ -608,14 +701,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "27",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "35",
     "Förnamn": "Ulrika",
     "Efternamn": "Broms",
-    "Dubbletter?": "Ulrika Broms",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "FK friskus",
     "Mail": "ulrika.broms@outlook.com",
     "Telefon": "",
@@ -625,31 +717,13 @@
     "Halloweenloppet": "27",
     "Falktrailen": "",
     "Totalpoäng": "27",
-    "Antal lopp": "1",
-    "": ""
-  },
-  {
-    "ID": "36",
-    "Förnamn": "Sara",
-    "Efternamn": "Persson",
-    "Dubbletter?": "Sara Persson",
-    "Klubb/ort": "Himle kök",
-    "Mail": "saraaa124@hotmail.com",
-    "Telefon": "",
-    "Krogsereds traillopp": "",
-    "Hallandsloppet": "26",
-    "Stadsloppet": "",
-    "Halloweenloppet": "",
-    "Falktrailen": "",
-    "Totalpoäng": "26",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "37",
     "Förnamn": "Helena",
     "Efternamn": "Pettersson",
-    "Dubbletter?": "Helena Pettersson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Ingen klubb",
     "Mail": "helena.jonasdotter@hotmail.com",
     "Telefon": "",
@@ -659,14 +733,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "26",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "38",
     "Förnamn": "Céline",
     "Efternamn": "Olsson",
-    "Dubbletter?": "Céline Olsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Lysmaskarna",
     "Mail": "alundegren@gmail.com",
     "Telefon": "",
@@ -676,14 +749,29 @@
     "Halloweenloppet": "26",
     "Falktrailen": "",
     "Totalpoäng": "26",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Marlene",
+    "Efternamn": "Larsson",
+    "Dubbletter?": "",
+    "Klubb/ort": "Mölnlycke",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "26",
+    "Totalpoäng": "26",
+    "Antal lopp": "1"
   },
   {
     "ID": "39",
     "Förnamn": "Camilla",
     "Efternamn": "Johansson",
-    "Dubbletter?": "Camilla Johansson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "camilla@falo.se",
     "Telefon": "",
@@ -693,14 +781,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "25",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "41",
     "Förnamn": "Åsa",
     "Efternamn": "Nilsson",
-    "Dubbletter?": "Åsa Nilsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "asa.c.nilsson@telia.com",
     "Telefon": "",
@@ -710,14 +797,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "25",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "42",
     "Förnamn": "Anna-Sara",
     "Efternamn": "Hellström",
-    "Dubbletter?": "Anna-Sara Hellström",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Halmstad sim och löpgrupp",
     "Mail": "annasara.hellstrom@gmail.com",
     "Telefon": "",
@@ -727,14 +813,13 @@
     "Halloweenloppet": "25",
     "Falktrailen": "",
     "Totalpoäng": "25",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "44",
     "Förnamn": "Kajsa",
     "Efternamn": "Barrett",
-    "Dubbletter?": "Kajsa Barrett",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Vesslunda Runners",
     "Mail": "kajsa.barrett@hotmail.com",
     "Telefon": "",
@@ -744,14 +829,29 @@
     "Halloweenloppet": "24",
     "Falktrailen": "",
     "Totalpoäng": "24",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Lena",
+    "Efternamn": "Larsson",
+    "Dubbletter?": "",
+    "Klubb/ort": "Halmstad",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "24",
+    "Totalpoäng": "24",
+    "Antal lopp": "1"
   },
   {
     "ID": "45",
     "Förnamn": "Berit",
     "Efternamn": "Andersson",
-    "Dubbletter?": "Berit Andersson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "62.bean@gmail.com",
     "Telefon": "",
@@ -761,14 +861,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "23",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "46",
     "Förnamn": "Josefine",
     "Efternamn": "Kronberg",
-    "Dubbletter?": "Josefine Kronberg",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "josefine_kronberg@hotmail.com",
     "Telefon": "",
@@ -778,14 +877,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "23",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "47",
     "Förnamn": "Åsa",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Åsa Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "mailatillaasa@gmail.com",
     "Telefon": "",
@@ -795,14 +893,29 @@
     "Halloweenloppet": "23",
     "Falktrailen": "",
     "Totalpoäng": "23",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Johanna",
+    "Efternamn": "Wallin",
+    "Dubbletter?": "",
+    "Klubb/ort": "Lomma",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "23",
+    "Totalpoäng": "23",
+    "Antal lopp": "1"
   },
   {
     "ID": "48",
     "Förnamn": "Maja",
     "Efternamn": "Gunnarsson",
-    "Dubbletter?": "Maja Gunnarsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Töringe",
     "Mail": "info@rullan.se",
     "Telefon": "",
@@ -812,14 +925,29 @@
     "Halloweenloppet": "22",
     "Falktrailen": "",
     "Totalpoäng": "22",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Diana",
+    "Efternamn": "Hörberg",
+    "Dubbletter?": "",
+    "Klubb/ort": "Skummeslöv",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "22",
+    "Totalpoäng": "22",
+    "Antal lopp": "1"
   },
   {
     "ID": "49",
     "Förnamn": "Isabell",
     "Efternamn": "Jansson",
-    "Dubbletter?": "Isabell Jansson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Bexet",
     "Mail": "sofiaabraham74@gmail.com",
     "Telefon": "",
@@ -829,14 +957,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "21",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "50",
     "Förnamn": "Jessica",
     "Efternamn": "Petersson",
-    "Dubbletter?": "Jessica Petersson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenbergs RR",
     "Mail": "jejja70@icloud.com",
     "Telefon": "",
@@ -846,14 +973,13 @@
     "Halloweenloppet": "21",
     "Falktrailen": "",
     "Totalpoäng": "21",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "51",
     "Förnamn": "Amanda",
     "Efternamn": "Magnusson",
-    "Dubbletter?": "Amanda Magnusson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Överlida",
     "Mail": "magnusson.manda88@gmail.com",
     "Telefon": "",
@@ -863,14 +989,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "20",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "52",
     "Förnamn": "Moa",
     "Efternamn": "Jönsson",
-    "Dubbletter?": "Moa Jönsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Töringe",
     "Mail": "info@rullan.se",
     "Telefon": "",
@@ -880,14 +1005,29 @@
     "Halloweenloppet": "20",
     "Falktrailen": "",
     "Totalpoäng": "20",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Christina",
+    "Efternamn": "Malmqvist",
+    "Dubbletter?": "",
+    "Klubb/ort": "Falkenbergs OK",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "20",
+    "Totalpoäng": "20",
+    "Antal lopp": "1"
   },
   {
     "ID": "53",
     "Förnamn": "Sofia",
     "Efternamn": "Bendiksen",
-    "Dubbletter?": "Sofia Bendiksen",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Göteborg volleybollklubb",
     "Mail": "sofiabendiksen99@gmail.com",
     "Telefon": "",
@@ -897,14 +1037,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "19",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "54",
     "Förnamn": "Astrid",
     "Efternamn": "Linder",
-    "Dubbletter?": "Astrid Linder",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "kaktyzz1@hotmail.com",
     "Telefon": "",
@@ -914,14 +1053,29 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "19",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Ida",
+    "Efternamn": "Kristiansson",
+    "Dubbletter?": "",
+    "Klubb/ort": "Allbergers",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "19",
+    "Totalpoäng": "19",
+    "Antal lopp": "1"
   },
   {
     "ID": "56",
     "Förnamn": "Lisa",
     "Efternamn": "Jansson",
-    "Dubbletter?": "Lisa Jansson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Ingen",
     "Mail": "Lisa-jansson@outlook.com",
     "Telefon": "",
@@ -931,14 +1085,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "18",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "57",
     "Förnamn": "Marie",
     "Efternamn": "Åkerfeldt",
-    "Dubbletter?": "Marie Åkerfeldt",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Varberg",
     "Mail": "marie_ake86@hotmail.com",
     "Telefon": "",
@@ -948,14 +1101,29 @@
     "Halloweenloppet": "18",
     "Falktrailen": "",
     "Totalpoäng": "18",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
+  },
+  {
+    "ID": "",
+    "Förnamn": "Johanna",
+    "Efternamn": "Josefsson",
+    "Dubbletter?": "",
+    "Klubb/ort": "Väckelsång",
+    "Mail": "",
+    "Telefon": "",
+    "Krogsereds traillopp": "",
+    "Hallandsloppet": "",
+    "Stadsloppet": "",
+    "Halloweenloppet": "",
+    "Falktrailen": "18",
+    "Totalpoäng": "18",
+    "Antal lopp": "1"
   },
   {
     "ID": "58",
     "Förnamn": "Anna",
     "Efternamn": "Johansson",
-    "Dubbletter?": "Anna Johansson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Tränshult",
     "Mail": "annaljoh84@hotmail.com",
     "Telefon": "",
@@ -965,14 +1133,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "17",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "59",
     "Förnamn": "Sara",
     "Efternamn": "Winsa",
-    "Dubbletter?": "Sara Winsa",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenbergs RR",
     "Mail": "sarawinsa@gmail.com",
     "Telefon": "",
@@ -982,14 +1149,13 @@
     "Halloweenloppet": "17",
     "Falktrailen": "",
     "Totalpoäng": "17",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "60",
     "Förnamn": "Elisabeth",
     "Efternamn": "Jonesund",
-    "Dubbletter?": "Elisabeth Jonesund",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Kungsäter",
     "Mail": "0",
     "Telefon": "",
@@ -999,14 +1165,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "16",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "61",
     "Förnamn": "Annika",
     "Efternamn": "Brorsson",
-    "Dubbletter?": "Annika Brorsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Lilla Edet",
     "Mail": "annikabrorsson@live.se",
     "Telefon": "",
@@ -1016,14 +1181,13 @@
     "Halloweenloppet": "16",
     "Falktrailen": "",
     "Totalpoäng": "16",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "62",
     "Förnamn": "Ann-Marie",
     "Efternamn": "Dannegren",
-    "Dubbletter?": "Ann-Marie Dannegren",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Krogsereds ik",
     "Mail": "amdannegren@gmail.com",
     "Telefon": "",
@@ -1033,14 +1197,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "15",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "63",
     "Förnamn": "Anita",
     "Efternamn": "Lackinger",
-    "Dubbletter?": "Anita Lackinger",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "ÄTRAN",
     "Mail": "mosternita@gmail.com",
     "Telefon": "",
@@ -1050,14 +1213,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "14",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "64",
     "Förnamn": "Jenny",
     "Efternamn": "Axén",
-    "Dubbletter?": "Jenny Axén",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Triathlon Väst",
     "Mail": "jhalkjaer@hotmail.com",
     "Telefon": "",
@@ -1067,14 +1229,13 @@
     "Halloweenloppet": "14",
     "Falktrailen": "",
     "Totalpoäng": "14",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "65",
     "Förnamn": "Katarina",
     "Efternamn": "Karlsson-Frisch",
-    "Dubbletter?": "Katarina Karlsson-Frisch",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "pellepilon@gmail.com",
     "Telefon": "",
@@ -1084,14 +1245,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "13",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "66",
     "Förnamn": "Titti",
     "Efternamn": "Ark",
-    "Dubbletter?": "Titti Ark",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Göteborg Energi Idrottsförening",
     "Mail": "maline.a@hotmail.com",
     "Telefon": "",
@@ -1101,14 +1261,13 @@
     "Halloweenloppet": "13",
     "Falktrailen": "",
     "Totalpoäng": "13",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "67",
     "Förnamn": "Susanne",
     "Efternamn": "Larsson",
-    "Dubbletter?": "Susanne Larsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Snigel joggaren",
     "Mail": "Susanne.larsson.1@hotmail.com",
     "Telefon": "",
@@ -1118,14 +1277,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "11",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "68",
     "Förnamn": "Lotte",
     "Efternamn": "Mossudd",
-    "Dubbletter?": "Lotte Mossudd",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Falkenberg",
     "Mail": "frida.mossudd@hotmail.com",
     "Telefon": "",
@@ -1135,14 +1293,13 @@
     "Halloweenloppet": "11",
     "Falktrailen": "",
     "Totalpoäng": "11",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "69",
     "Förnamn": "Susanne",
     "Efternamn": "Persson",
-    "Dubbletter?": "Susanne Persson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Kungsäter",
     "Mail": "susanne.l.persson@regionhalland.se",
     "Telefon": "",
@@ -1152,14 +1309,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "10",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "70",
     "Förnamn": "Cecilia",
     "Efternamn": "Thulin",
-    "Dubbletter?": "Cecilia Thulin",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "CK Wano",
     "Mail": "ceciliasatelje@gmail.com",
     "Telefon": "",
@@ -1169,14 +1325,13 @@
     "Halloweenloppet": "10",
     "Falktrailen": "",
     "Totalpoäng": "10",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "71",
     "Förnamn": "Emma",
     "Efternamn": "Isaksson",
-    "Dubbletter?": "Emma Isaksson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Eldsberga",
     "Mail": "emmaisaksson225@gmail.com",
     "Telefon": "",
@@ -1186,14 +1341,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "9",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "73",
     "Förnamn": "Linn",
     "Efternamn": "Angel",
-    "Dubbletter?": "Linn Angel",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "",
     "Mail": "linn.k.angel@gmail.com",
     "Telefon": "",
@@ -1203,14 +1357,13 @@
     "Halloweenloppet": "8",
     "Falktrailen": "",
     "Totalpoäng": "8",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "74",
     "Förnamn": "Stina",
     "Efternamn": "Qvarnström",
-    "Dubbletter?": "Stina Qvarnström",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Fegen",
     "Mail": "Stina-qvarnstrom@live.se",
     "Telefon": "",
@@ -1220,14 +1373,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "6",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "75",
     "Förnamn": "Cornelia",
     "Efternamn": "Vidarsson",
-    "Dubbletter?": "Cornelia Vidarsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "ViljAnn",
     "Mail": "0",
     "Telefon": "",
@@ -1237,14 +1389,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "4",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "76",
     "Förnamn": "Emelie",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Emelie Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "OK Löftan",
     "Mail": "emmeeliek@hotmail.se",
     "Telefon": "",
@@ -1254,14 +1405,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "3",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "77",
     "Förnamn": "Ida",
     "Efternamn": "Karlsson",
-    "Dubbletter?": "Ida Karlsson",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Varberg",
     "Mail": "Ingegerd_90@hotmail.com",
     "Telefon": "",
@@ -1271,14 +1421,13 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "2",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   },
   {
     "ID": "78",
     "Förnamn": "Beatrice",
     "Efternamn": "Wittbom",
-    "Dubbletter?": "Beatrice Wittbom",
+    "Dubbletter?": "Err:509",
     "Klubb/ort": "Tvååker",
     "Mail": "beatricewittbom@hotmail.com",
     "Telefon": "",
@@ -1288,7 +1437,6 @@
     "Halloweenloppet": "",
     "Falktrailen": "",
     "Totalpoäng": "1",
-    "Antal lopp": "1",
-    "": ""
+    "Antal lopp": "1"
   }
 ]
