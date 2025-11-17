@@ -12,7 +12,7 @@ const dam5km = () => {
           <table className="min-w-full divide-y divide-gray-200 text-sm text-gray-700">
             <thead className="bg-gray-100 text-left text-gray-700 uppercase tracking-wider text-xs">
               <tr>
-                {/* <th className="px-6 py-3">Placering</th> */}
+                <th className="px-6 py-3">Placering</th>
                 <th className="px-6 py-3">Förnamn</th>
                 <th className="px-6 py-3">Efternamn</th>
                 <th className="px-6 py-3">Klubb/ort</th>
@@ -26,7 +26,7 @@ const dam5km = () => {
                   key={person.ID}
                   className="hover:bg-gray-50 transition-colors duration-200"
                 >
-                  {/*  <td className="px-6 py-4">{person.ID}</td> */}
+                  <td className="px-6 py-4">{person.ID}</td>
                   <td className="px-6 py-4">{person.Förnamn}</td>
                   <td className="px-6 py-4">{person.Efternamn}</td>
                   <td className="px-6 py-4">{person["Klubb/ort"]}</td>
