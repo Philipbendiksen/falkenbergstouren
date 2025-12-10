@@ -1,6 +1,7 @@
 "use client";
 
 import emailjs from "@emailjs/browser";
+import error from "next/error";
 import React, { useState } from "react";
 
 const ContactForm = () => {
@@ -32,14 +33,14 @@ const ContactForm = () => {
     emailjs
       .sendForm(serviceId, templateId, form, publicKey) // Använd den typade form-variabeln här
       .then(
-        (result) => {
+        () => {
           setStateMessage("Meddelandet har skickats!"); // Meddelande vid framgång
           setIsSubmitting(false);
           setTimeout(() => {
             setStateMessage(null);
           }, 5000); // Dölja meddelandet efter 5 sekunder
         },
-        (error) => {
+        () => {
           console.error("Fel vid e-postskick:", error);
           setStateMessage("Något gick fel, försök igen senare"); // Meddelande vid fel
           setIsSubmitting(false);
