@@ -18,11 +18,11 @@ export default function Home() {
           <p>
             Falkenberg har ett flertalet lopp av olika karaktär runt om i
             kommunen. Hade det inte varit roligt om alla dem samarbetade med
-            varandra? Det tyckte iallafall vi som arrangerar loppen och därför
-            kommer vi under 2025 att starta Tour de Falkenberg! Låter detta som
-            en rolig upplevelse att vara en del av så tveka inte att anmäla dig
-            till något av våra lopp för att vara en del av Tour de Falkenberg
-            2025!
+            varandra? Efter förra årets stora framgång med Tour de Falkenberg så
+            har vi valt att även 2026 fortsätta med touren. Vill du återigen
+            vara med och uppleva hela Falkenbergs kommun genom några av de
+            finaste loppen i södra Sverige så tveka inte att anmäla dig så ses
+            vi även 2026.
           </p>
         </article>
       </section>
