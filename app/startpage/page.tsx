@@ -31,7 +31,7 @@ export default function Home() {
         <div className="bg-secondary p-4 rounded-lg text-center">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3 justify-items-center">
             <Link
-              href="https://krogseredsik.se"
+              href="https://krogseredsik.se/krogsereds-trailrun-2025/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -105,7 +105,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://event.falktouren.se/event"
+              href="https://www.facebook.com/FalkenbergAllstars"
               target="_blank"
               rel="noopener noreferrer"
             >

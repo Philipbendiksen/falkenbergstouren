@@ -1,10 +1,7 @@
-import Results from "../page";
-import data from "./data.json";
-
 const herr10km = () => {
   return (
     <div>
-      <div>
+      {/* <div>
         <Results />
       </div>
       <main className="bg-primary min-h-screen flex items-center justify-center p-14">
@@ -39,7 +36,7 @@ const herr10km = () => {
             </tbody>
           </table>
         </div>
-      </main>
+      </main> */}
     </div>
   );
 };

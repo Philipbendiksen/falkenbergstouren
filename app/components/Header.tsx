@@ -2,11 +2,14 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 import { useSelectedLayoutSegment } from "next/navigation";
 
 const Header = () => {
   const segment = useSelectedLayoutSegment(); // Hämta aktuell layout-segment
+
+  const pathname = usePathname();
 
   return (
     <header className="bg-primary md:h-20 p-2 flex flex-col md:flex-row text-center justify-between items-center shadow-lg">
@@ -32,7 +35,7 @@ const Header = () => {
       </div>
       {/* Menyn */}
       <ul className="flex justify-center space-x-12 md:mr-16 mb-1">
-        <Link href="/resultat/5kmDam">
+        <Link href="/resultat">
           <li
             className={`cursor-pointer ${
               segment === "resultat" ? "border-b-2 border-black" : ""
@@ -59,15 +62,15 @@ const Header = () => {
             Bilder
           </li>
         </Link>
-        {/* <Link href="/fbginfo">
+        <Link href="/arkiv/5kmDam">
           <li
             className={`cursor-pointer ${
-              segment === "fbginfo" ? "border-b-2 border-black" : ""
+              pathname?.startsWith("/arkiv") ? "border-b-2 border-black" : ""
             }`}
           >
-            Falkenberg
+            Arkiv
           </li>
-        </Link> */}
+        </Link>
       </ul>
     </header>
   );
