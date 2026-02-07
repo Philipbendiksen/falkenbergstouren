@@ -3,12 +3,14 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useState } from "react";
 
 import { useSelectedLayoutSegment } from "next/navigation";
 
 const Header = () => {
   const segment = useSelectedLayoutSegment(); // Hämta aktuell layout-segment
 
+  const [arkivOpen, setArkivOpen] = useState(false);
   const pathname = usePathname();
 
   return (
@@ -34,6 +36,7 @@ const Header = () => {
         </Link>
       </div>
       {/* Menyn */}
+
       <ul className="flex justify-center space-x-12 md:mr-16 mb-1">
         <Link href="/resultat">
           <li
@@ -62,15 +65,32 @@ const Header = () => {
             Bilder
           </li>
         </Link>
-        <Link href="/arkiv/5kmDam">
+
+        <div className="relative" onMouseLeave={() => setArkivOpen(false)}>
           <li
-            className={`cursor-pointer ${
+            className={`cursor-pointer transition-all ${
               pathname?.startsWith("/arkiv") ? "border-b-2 border-black" : ""
             }`}
+            onClick={() => setArkivOpen(!arkivOpen)}
+            onMouseEnter={() => setArkivOpen(true)}
           >
             Arkiv
           </li>
-        </Link>
+
+          <ul
+            className={`absolute left-1/2 -translate-x-1/2 top-full bg-white shadow-xl rounded-lg py-3 max-w-28 max-h-16 z-10 flex flex-col border border-gray-200 transition-all duration-200 ${
+              arkivOpen
+                ? "opacity-100 bg-secondary visible"
+                : "opacity-0 invisible pointer-events-none"
+            }`}
+          >
+            <Link href="/arkiv/5kmDam" onClick={() => setArkivOpen(false)}>
+              <li className="cursor-pointer px-6 py-2 hover:bg-gray-100 transition-colors text-gray-700 hover:text-black rounded-md mx-2">
+                2025
+              </li>
+            </Link>
+          </ul>
+        </div>
       </ul>
     </header>
   );
