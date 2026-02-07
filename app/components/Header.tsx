@@ -66,19 +66,17 @@ const Header = () => {
           </li>
         </Link>
 
-        <div className="relative" onMouseLeave={() => setArkivOpen(false)}>
-          <li
-            className={`cursor-pointer transition-all ${
-              pathname?.startsWith("/arkiv") ? "border-b-2 border-black" : ""
-            }`}
-            onClick={() => setArkivOpen(!arkivOpen)}
-            onMouseEnter={() => setArkivOpen(true)}
-          >
-            Arkiv
-          </li>
-
+        <li
+          className={`relative cursor-pointer transition-all ${
+            pathname?.startsWith("/arkiv") ? "border-b-2 border-black" : ""
+          }`}
+          onMouseLeave={() => setArkivOpen(false)}
+          onClick={() => setArkivOpen(!arkivOpen)}
+          onMouseEnter={() => setArkivOpen(true)}
+        >
+          Arkiv
           <ul
-            className={`absolute left-1/2 -translate-x-1/2 top-full bg-white shadow-xl rounded-lg py-3 max-w-28 max-h-16 z-10 flex flex-col border border-gray-200 transition-all duration-200 ${
+            className={`absolute left-1/2 -translate-x-1/2 top-full bg-white shadow-xl rounded-lg py-3 w-28 z-10 flex flex-col border border-gray-200 transition-all duration-200 ${
               arkivOpen
                 ? "opacity-100 bg-secondary visible"
                 : "opacity-0 invisible pointer-events-none"
@@ -90,7 +88,7 @@ const Header = () => {
               </li>
             </Link>
           </ul>
-        </div>
+        </li>
       </ul>
     </header>
   );
