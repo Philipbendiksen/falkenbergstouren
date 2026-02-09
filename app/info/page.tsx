@@ -9,7 +9,7 @@ const Info = () => {
 
       <div className="mb-14 ml-14 mr-14 mt-4">
         <Image
-          src="/images/Inbjudan.jpg"
+          src="/images/Inbjudan jpg.1.jpeg"
           alt="Bada på Skrea Strand"
           width={800}
           height={600}
