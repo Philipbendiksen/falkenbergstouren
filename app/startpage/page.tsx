@@ -37,11 +37,11 @@ export default function Home() {
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/KrogseredsTrailRUN2025.jpg"
+                  src="/images/Krogsered2026.jpg"
                   alt="Krogsered"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
-                  className="rounded-lg min-h-64"
+                  className="rounded-lg min-h-64 max-h-64"
                 />
                 <span className="mt-2 font-georgia">Krogsered trailrun</span>
               </div>
@@ -94,7 +94,7 @@ export default function Home() {
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/Halloweenloppet 2025 ny.jpg"
+                  src="/images/Halloweenloppet.jpeg"
                   alt="Halloweenloppet"
                   width={400} // Ange bildens bredd`
                   height={400} // Ange bildens höjd
