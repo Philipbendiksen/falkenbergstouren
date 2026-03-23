@@ -36,6 +36,21 @@ export default function sponspors() {
             />
           </Link>
         </div>
+        <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
+          <Link
+            href="https://www.fingerprints.nu/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              src="/images/finger prints.jpg"
+              alt="Allstars"
+              width={200} // Ange bildens bredd
+              height={200} // Ange bildens höjd
+              className="rounded-lg max-h-64 max-w-52"
+            />
+          </Link>
+        </div>
         {/* <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
           <Link href="https://www.vinbergslantmanna.se/ ">
             <Image
