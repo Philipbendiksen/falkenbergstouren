@@ -4,7 +4,7 @@ const Info = () => {
   return (
     <>
       <div className="text-3xl text-center mt-8">
-        Information om Tour de Falkenberg 2025
+        Information om Tour de Falkenberg 2026
       </div>
 
       <div className="mb-14 ml-14 mr-14 mt-4">
