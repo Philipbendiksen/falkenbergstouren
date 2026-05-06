@@ -31,7 +31,7 @@ const dam5km = () => {
                   <td className="px-6 py-4 font-semibold">{person.Totalt}</td>
                   <td className="px-6 py-4">
                     {
-                      ["E1", "E2", "E3", "E4", "E5"].filter(
+                      ["E1", "E2"].filter(
                         (e) => person[e as keyof typeof person].length
                       ).length
                     }

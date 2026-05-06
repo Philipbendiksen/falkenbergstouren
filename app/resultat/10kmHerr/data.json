@@ -4,846 +4,919 @@
     "Namn": "Andreas Lundblad",
     "Klubb": "FALKENBERG ALLSTARS",
     "E1": "40",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "40"
+    "E2": "40",
+    "Totalt": "80"
   },
   {
     "Plac": "2",
+    "Namn": "Dennis Svensson",
+    "Klubb": "HEBERG",
+    "E1": "37",
+    "E2": "35",
+    "Totalt": "72"
+  },
+  {
+    "Plac": "3",
+    "Namn": "Markus Johnsson",
+    "Klubb": "FALKENBERG ALLSTARS",
+    "E1": "36",
+    "E2": "27",
+    "Totalt": "63"
+  },
+  {
+    "Plac": "4",
+    "Namn": "Tobias Wennersten",
+    "Klubb": "XL-BYGG FALKENBERG",
+    "E1": "29",
+    "E2": "26",
+    "Totalt": "55"
+  },
+  {
+    "Plac": "5",
+    "Namn": "Anton Ekstrand",
+    "Klubb": "RINGSEGÅRD",
+    "E1": "26",
+    "E2": "23",
+    "Totalt": "49"
+  },
+  {
+    "Plac": "6",
+    "Namn": "Samuel Bengtsson",
+    "Klubb": "VESSLUNDA RUNNERS",
+    "E1": "23",
+    "E2": "24",
+    "Totalt": "47"
+  },
+  {
+    "Plac": "7",
+    "Namn": "Patrik Andersson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "24",
+    "E2": "20",
+    "Totalt": "44"
+  },
+  {
+    "Plac": "8",
+    "Namn": "Erik Gustavsson",
+    "Klubb": "IF ÄLVÉNA",
+    "E1": "25",
+    "E2": "18",
+    "Totalt": "43"
+  },
+  {
+    "Plac": "9",
     "Namn": "Simon Jansson",
     "Klubb": "HYLTEBRUK SIMSÄLLSKAP",
     "E1": "39",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "39"
   },
   {
-    "Plac": "3",
+    "Plac": "9",
+    "Namn": "Peter Sandqvist",
+    "Klubb": "MÖLNDALS AIK",
+    "E1": "",
+    "E2": "39",
+    "Totalt": "39"
+  },
+  {
+    "Plac": "11",
     "Namn": "Johan Samuelsson",
     "Klubb": "MARKBYGDENS OK",
     "E1": "38",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "38"
   },
   {
-    "Plac": "4",
-    "Namn": "Dennis Svensson",
-    "Klubb": "HEBERG",
-    "E1": "37",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "Plac": "11",
+    "Namn": "Pär Boqvist",
+    "Klubb": "MÖLNDAL OUTDOOR IF",
+    "E1": "",
+    "E2": "38",
+    "Totalt": "38"
+  },
+  {
+    "Plac": "13",
+    "Namn": "Mandel Carnegård",
+    "Klubb": "HALMSTAD SKIDKLUBB",
+    "E1": "",
+    "E2": "37",
     "Totalt": "37"
   },
   {
-    "Plac": "5",
-    "Namn": "Markus Johnsson",
-    "Klubb": "FALKENBERG ALLSTARS",
-    "E1": "36",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "Plac": "14",
+    "Namn": "Ulf Lunnhed",
+    "Klubb": "OK REFTELE",
+    "E1": "",
+    "E2": "36",
     "Totalt": "36"
   },
   {
-    "Plac": "6",
+    "Plac": "15",
     "Namn": "Christian Magnusson",
     "Klubb": "DALSTORP",
     "E1": "35",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "35"
   },
   {
-    "Plac": "7",
+    "Plac": "16",
     "Namn": "Leonard Meckel",
     "Klubb": "ÄSTAD RUNNERS",
     "E1": "34",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "34"
   },
   {
-    "Plac": "8",
+    "Plac": "16",
+    "Namn": "Martin Wildheim",
+    "Klubb": "MÖLNDAL OUTDOOR IF",
+    "E1": "",
+    "E2": "34",
+    "Totalt": "34"
+  },
+  {
+    "Plac": "18",
+    "Namn": "Adam Georgsson",
+    "Klubb": "OK NACKHE",
+    "E1": "",
+    "E2": "33",
+    "Totalt": "33"
+  },
+  {
+    "Plac": "18",
     "Namn": "Patrik Jönsson",
     "Klubb": "MORUP",
     "E1": "33",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "33"
   },
   {
-    "Plac": "9",
+    "Plac": "20",
     "Namn": "Tommy Dee Packendorff",
     "Klubb": "FALKENBERG STANDUPPADDLE CLUB",
     "E1": "32",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "32"
   },
   {
-    "Plac": "10",
+    "Plac": "20",
+    "Namn": "Niclas Clemmensen",
+    "Klubb": "BORAT RUNNING CLUB",
+    "E1": "",
+    "E2": "32",
+    "Totalt": "32"
+  },
+  {
+    "Plac": "22",
+    "Namn": "Filip Gunnarsson",
+    "Klubb": "ÄTRANS IF",
+    "E1": "",
+    "E2": "31",
+    "Totalt": "31"
+  },
+  {
+    "Plac": "22",
     "Namn": "Martin Siljegård",
     "Klubb": "HALMSTAD SKIDKLUBB",
     "E1": "31",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "31"
   },
   {
-    "Plac": "10",
+    "Plac": "22",
     "Namn": "Gustav Andersson",
     "Klubb": "FALKENBERG",
     "E1": "31",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "31"
   },
   {
-    "Plac": "12",
-    "Namn": "Tobias Wennersten",
-    "Klubb": "XL-BYGG FALKENBERG",
-    "E1": "29",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "Plac": "25",
+    "Namn": "Johan Bergman",
+    "Klubb": "MÖLNDAL OUTDOOR IF",
+    "E1": "",
+    "E2": "30",
+    "Totalt": "30"
+  },
+  {
+    "Plac": "26",
+    "Namn": "Aaron Johansson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "29",
     "Totalt": "29"
   },
   {
-    "Plac": "13",
+    "Plac": "27",
+    "Namn": "Axel Johansson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "28",
+    "Totalt": "28"
+  },
+  {
+    "Plac": "27",
     "Namn": "Daniel Cederkrantz",
     "Klubb": "VEDDIGE",
     "E1": "28",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "28"
   },
   {
-    "Plac": "14",
+    "Plac": "29",
     "Namn": "Anders Sjööarv",
     "Klubb": "OK NACKHE",
     "E1": "27",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "27"
   },
   {
-    "Plac": "15",
-    "Namn": "Anton Ekstrand",
-    "Klubb": "RINGSEGÅRD",
-    "E1": "26",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "26"
-  },
-  {
-    "Plac": "16",
-    "Namn": "Erik Gustavsson",
-    "Klubb": "IF ÄLVÉNA",
-    "E1": "25",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "Plac": "30",
+    "Namn": "Glenn Norén",
+    "Klubb": "TORESTORPS IF",
+    "E1": "",
+    "E2": "25",
     "Totalt": "25"
   },
   {
-    "Plac": "17",
-    "Namn": "Patrik Andersson",
-    "Klubb": "KROGSERED IK",
-    "E1": "24",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "24"
+    "Plac": "31",
+    "Namn": "Simon Alexandersson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "22",
+    "Totalt": "22"
   },
   {
-    "Plac": "18",
-    "Namn": "Samuel Bengtsson",
-    "Klubb": "VESSLUNDA",
-    "E1": "23",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "23"
-  },
-  {
-    "Plac": "19",
+    "Plac": "31",
     "Namn": "Daniel Larsson",
     "Klubb": "KROGSEREDS IK",
     "E1": "22",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "22"
   },
   {
-    "Plac": "20",
+    "Plac": "33",
+    "Namn": "Sune Ögren",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "21",
+    "Totalt": "21"
+  },
+  {
+    "Plac": "33",
     "Namn": "Andreas Karlsson",
     "Klubb": "FALKENBERG",
     "E1": "21",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "21"
   },
   {
-    "Plac": "21",
+    "Plac": "35",
     "Namn": "Mikael Lindén",
     "Klubb": "SK HYLTE",
     "E1": "20",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "20"
   },
   {
-    "Plac": "22",
+    "Plac": "36",
+    "Namn": "Martin Hassel",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "19",
+    "Totalt": "19"
+  },
+  {
+    "Plac": "36",
     "Namn": "Stefan Johansson",
     "Klubb": "KROGSEREDS IK",
     "E1": "19",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "19"
   },
   {
-    "Plac": "23",
+    "Plac": "38",
+    "Namn": "Jimmy Tossavainen",
+    "Klubb": "SLOCUM IK",
+    "E1": "7",
+    "E2": "12",
+    "Totalt": "19"
+  },
+  {
+    "Plac": "39",
     "Namn": "Tobias Thorsson",
     "Klubb": "IK TRENNE ULLARED",
     "E1": "18",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "18"
   },
   {
-    "Plac": "24",
+    "Plac": "40",
     "Namn": "Daniel Ivarsson",
     "Klubb": "KROGSEREDS IK",
     "E1": "17",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "17"
   },
   {
-    "Plac": "25",
+    "Plac": "40",
+    "Namn": "Mathias Skoglund",
+    "Klubb": "FALKENBERG ALLSTARS",
+    "E1": "",
+    "E2": "17",
+    "Totalt": "17"
+  },
+  {
+    "Plac": "42",
     "Namn": "Samuel Börjesson",
     "Klubb": "KUNGSBACKA TENNISKLUBB",
     "E1": "16",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "16"
   },
   {
-    "Plac": "26",
+    "Plac": "42",
+    "Namn": "Simon Persson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "16",
+    "Totalt": "16"
+  },
+  {
+    "Plac": "44",
+    "Namn": "Robbin Smilesen",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "8",
+    "E2": "8",
+    "Totalt": "16"
+  },
+  {
+    "Plac": "45",
+    "Namn": "Patrik Åsälv",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "",
+    "E2": "15",
+    "Totalt": "15"
+  },
+  {
+    "Plac": "45",
     "Namn": "Elias Börjesson",
     "Klubb": "KUNGSBACKA TENNISKLUBB",
     "E1": "15",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "15"
   },
   {
-    "Plac": "27",
+    "Plac": "47",
+    "Namn": "Richard Brankell",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "14",
+    "Totalt": "14"
+  },
+  {
+    "Plac": "47",
     "Namn": "Alexi Andersson Lindgren",
     "Klubb": "FEGEN",
     "E1": "14",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "14"
   },
   {
-    "Plac": "28",
+    "Plac": "49",
     "Namn": "Johan Lund",
     "Klubb": "KVIBILLE",
     "E1": "13",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "13"
   },
   {
-    "Plac": "29",
+    "Plac": "49",
+    "Namn": "Per-Olof Ivarsson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "",
+    "E2": "13",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "51",
     "Namn": "Anders Johansson",
     "Klubb": "SOLSKENSFARMARNA",
     "E1": "12",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "12"
   },
   {
-    "Plac": "30",
+    "Plac": "52",
+    "Namn": "Marko Lempiäinen",
+    "Klubb": "JÖNKÖPING",
+    "E1": "1",
+    "E2": "11",
+    "Totalt": "12"
+  },
+  {
+    "Plac": "53",
     "Namn": "Rasmus Eklund Jönsson",
     "Klubb": "BOBERG RUNNERS",
     "E1": "11",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "11"
   },
   {
-    "Plac": "31",
+    "Plac": "54",
     "Namn": "Hans Lilja",
     "Klubb": "FALKENBERGS RR",
     "E1": "10",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "E2": "1",
+    "Totalt": "11"
+  },
+  {
+    "Plac": "55",
+    "Namn": "Peter Ljungberg",
+    "Klubb": "ÄLMHULT",
+    "E1": "4",
+    "E2": "7",
+    "Totalt": "11"
+  },
+  {
+    "Plac": "56",
+    "Namn": "Erik Jarl",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "10",
     "Totalt": "10"
   },
   {
-    "Plac": "32",
+    "Plac": "57",
+    "Namn": "Casper Brag",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "9",
+    "Totalt": "9"
+  },
+  {
+    "Plac": "57",
     "Namn": "Fredrik Bengtsson",
     "Klubb": "ABILD",
     "E1": "9",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "9"
   },
   {
-    "Plac": "33",
-    "Namn": "Robbin Smilesen",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "8",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "8"
-  },
-  {
-    "Plac": "34",
-    "Namn": "Jimmy Tossavainen",
-    "Klubb": "SLOCUM IK",
-    "E1": "7",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "7"
-  },
-  {
-    "Plac": "35",
+    "Plac": "59",
     "Namn": "Magnus Wallin",
     "Klubb": "IK TRENNE ULLARED",
     "E1": "6",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "E2": "1",
+    "Totalt": "7"
+  },
+  {
+    "Plac": "60",
+    "Namn": "Samuel Ivarsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "6",
     "Totalt": "6"
   },
   {
-    "Plac": "36",
+    "Plac": "61",
+    "Namn": "Peter Hellström",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "5",
+    "Totalt": "5"
+  },
+  {
+    "Plac": "61",
     "Namn": "Rikard Magnusson",
     "Klubb": "TRIO RUNNERS",
     "E1": "5",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "5"
   },
   {
-    "Plac": "37",
+    "Plac": "63",
     "Namn": "Fredrik Lundahl",
-    "Klubb": "RUNACADEMY IF LAHOLM",
+    "Klubb": "RUNACADEMY LAHOLM",
     "E1": "4",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "4"
+    "E2": "1",
+    "Totalt": "5"
   },
   {
-    "Plac": "37",
-    "Namn": "Peter Ljungberg",
-    "Klubb": "ÄLMHULT",
-    "E1": "4",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "4"
-  },
-  {
-    "Plac": "39",
+    "Plac": "64",
     "Namn": "Magnus Andersson",
     "Klubb": "VEINGE",
     "E1": "2",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "E2": "3",
+    "Totalt": "5"
+  },
+  {
+    "Plac": "65",
+    "Namn": "Ola Axheden",
+    "Klubb": "FALKENBERGS RR",
+    "E1": "",
+    "E2": "4",
+    "Totalt": "4"
+  },
+  {
+    "Plac": "66",
+    "Namn": "Johan Söderblom",
+    "Klubb": "FALKENBERGS OK",
+    "E1": "1",
+    "E2": "2",
+    "Totalt": "3"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Mats Carlegrund",
+    "Klubb": "KULLAS HÄLSA",
+    "E1": "1",
+    "E2": "1",
     "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "Lars Hansson",
-    "Klubb": "KROGSEREDS IK",
+    "Plac": "67",
+    "Namn": "Theodore Lönn",
+    "Klubb": "COZYRUNNERS",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "William Johansson",
-    "Klubb": "ALLBERGERS",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Jonas Ivarsson",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Thomas Ek",
-    "Klubb": "RUNACADEMY FALKENBERG",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
+    "Plac": "67",
     "Namn": "Alexander Albrektsson",
     "Klubb": "COZYRUNNERS",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "Markus Jonstad",
-    "Klubb": "RANAGÅRD RUNNERS",
+    "Plac": "67",
+    "Namn": "Simon Mårtensson",
+    "Klubb": "GLOMMEN FEAB",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "Magnus Ohlsson",
-    "Klubb": "RUN ACADEMY LAHOLM",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Fredrik Johansson",
-    "Klubb": "LILLA SLÄTT",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Kalle Karlsson",
-    "Klubb": "TRÖNNINGE",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Emanuel Nilsson",
+    "Plac": "67",
+    "Namn": "Andreas Bergholtz",
     "Klubb": "KROGSEREDS IK",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "Daniel Persmark",
-    "Klubb": "FALKENBERG",
+    "Plac": "67",
+    "Namn": "Robin Börjesson",
+    "Klubb": "ULLARED",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
+    "Plac": "67",
     "Namn": "Niklas Rikardson",
     "Klubb": "KROGSEREDS IK",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
-    "Namn": "Theodore Lönn",
-    "Klubb": "COZY RUNNERS",
+    "Plac": "67",
+    "Namn": "Fredrik Klang",
+    "Klubb": "KROGSEREDS IK",
     "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
+    "E2": "1",
+    "Totalt": "2"
   },
   {
-    "Plac": "40",
+    "Plac": "67",
+    "Namn": "Claes Åkerberg",
+    "Klubb": "FALKENBERGS IK",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Lars Hansson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Daniel Persmark",
+    "Klubb": "FALKENBERG",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Magnus Söderlind",
+    "Klubb": "CARLSBERG",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Magnus Ohlsson",
+    "Klubb": "RUNACADEMY LAHOLM",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Markus Jonstad",
+    "Klubb": "RANAGÅRD RUNNERS",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Björn Bejegård Lernsten",
+    "Klubb": "RUNACADEMY LAHOLM",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Simon Selenbrink",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Emanuel Nilsson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "1",
+    "Totalt": "2"
+  },
+  {
+    "Plac": "84",
     "Namn": "Christian Alcaraz",
     "Klubb": "IF BÖLJAN",
     "E1": "1",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
     "Totalt": "1"
   },
   {
-    "Plac": "40",
-    "Namn": "Peter Rydler",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Mats Carlegrund",
-    "Klubb": "KULLAS HÄLSA",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Andreas Bergholtz",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Simon Mårtensson",
-    "Klubb": "GLOMMEN FEAB",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Kim Andersson",
-    "Klubb": "TRIO RUNNERS",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Mats Andersson",
-    "Klubb": "ÖSTRÖÖ",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Robin Börjesson",
-    "Klubb": "ULLARED",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Johan Söderblom",
-    "Klubb": "FALKENBERGS OK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Magnus Söderlind",
-    "Klubb": "CARLSBERG",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Ola Johansson",
-    "Klubb": "FALKENBERG",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Simon Selenbrink",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Mikael Sjögerén",
-    "Klubb": "FALKENBERG",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Marko Lempiäinen",
-    "Klubb": "JÖNKÖPING",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Fredrik Klang",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Björn Bejegård Lernsten",
-    "Klubb": "RUNACADEMY LAHOLM",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Dennis Johansen",
-    "Klubb": "TRÖNNINGE",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Paul Rogers",
-    "Klubb": "TEAM SVEMPA",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Claes Åkerberg",
-    "Klubb": "FALKENBERGS IDROTTSKLUBB",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Erik Andersson",
-    "Klubb": "FEGEN",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Daniel Karlsson",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Jens Persson",
-    "Klubb": "IK TRENNE",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Johan Ivarsson",
-    "Klubb": "IVARSSONS LG",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Niklas Börjesson",
-    "Klubb": "KUNGSBACKA TENNISKLUBB",
-    "E1": "1",
-    "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
-    "Totalt": "1"
-  },
-  {
-    "Plac": "40",
+    "Plac": "84",
     "Namn": "Gerry Andersson",
     "Klubb": "IK TRENNE",
     "E1": "1",
     "E2": "",
-    "E3": "",
-    "E4": "",
-    "E5": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Albin Arvidsson",
+    "Klubb": "GOIF GINSTEN",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Mikael Sjögerén",
+    "Klubb": "FALKENBERG",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Kalle Karlsson",
+    "Klubb": "TRÖNNINGE",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Håkan Casparson",
+    "Klubb": "CASPARSON MÅLERI AB",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Paul Rogers",
+    "Klubb": "TEAM SVEMPA",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Jonas Ivarsson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Leif-Inge Hugosson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Karl-Axel Gustafsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Franco Trobbiani",
+    "Klubb": "SOK KNALLEN",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Simon Skog",
+    "Klubb": "TEAM LEDA UTVECKLING",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Mats Andersson",
+    "Klubb": "ÖSTRÖÖ",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Thomas Ek",
+    "Klubb": "RUNACADEMY FALKENBERG",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Aric Johansson",
+    "Klubb": "STAY MAGIC",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Niklas Börjesson",
+    "Klubb": "KUNGSBACKA TENNISKLUBB",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Kim Andersson",
+    "Klubb": "TRIO RUNNERS",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Lars-Olof Turesson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Johan Ivarsson",
+    "Klubb": "IVARSSONS LG",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Erik Andersson",
+    "Klubb": "FEGEN",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Niclas Bellmyr",
+    "Klubb": "ROLFSTORP HOOLIGANZ",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Anton Eriksson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Dennis Johansen",
+    "Klubb": "TRÖNNINGE",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Fredrik Johansson",
+    "Klubb": "LILLA SLÄTT",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "William Johansson",
+    "Klubb": "ALLBERGERS",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Jens Persson",
+    "Klubb": "IK TRENNE",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Daniel Karlsson",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Peter Arvidsson",
+    "Klubb": "GOIF GINSTEN",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Peter Rydler",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Christian Petersson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "1",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Ola Johansson",
+    "Klubb": "FALKENBERG",
+    "E1": "1",
+    "E2": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "84",
+    "Namn": "Axel Danielsson",
+    "Klubb": "TEAM LEDA UTVECKLING",
+    "E1": "",
+    "E2": "1",
     "Totalt": "1"
   }
 ]
