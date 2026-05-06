@@ -18,10 +18,12 @@ const Header = () => {
       {/* Flex-container för rubrik och bild */}
       <div className="flex items-center md:ml-12 m-4">
         {/* Rubrik */}
-        <Link href="/">
-          <h1 className="text-2xl md:text-3xl cursor-pointer mb-3 md:mb-0">
-            Tour de Falkenberg
-          </h1>
+
+        <Link
+          className="text-2xl md:text-3xl cursor-pointer mb-3 md:mb-0"
+          href="/"
+        >
+          Tour de Falkenberg
         </Link>
 
         {/* Bild */}
@@ -38,33 +40,29 @@ const Header = () => {
       {/* Menyn */}
 
       <ul className="flex justify-center space-x-12 md:mr-16 mb-1">
-        <Link href="/resultat/5kmDam">
-          <li
-            className={`cursor-pointer ${
-              segment === "resultat" ? "border-b-2 border-black" : ""
-            }`}
-          >
-            Resultat
-          </li>
-        </Link>
-        <Link href="/info">
-          <li
-            className={`cursor-pointer ${
-              segment === "info" ? "border-b-2 border-black" : ""
-            }`}
-          >
-            Info
-          </li>
-        </Link>
-        <Link href="/bilder">
-          <li
-            className={`cursor-pointer ${
-              segment === "bilder" ? "border-b-2 border-black" : ""
-            }`}
-          >
-            Bilder
-          </li>
-        </Link>
+        <li
+          className={`cursor-pointer ${
+            segment === "resultat" ? "border-b-2 border-black" : ""
+          }`}
+        >
+          <Link href="/resultat/5kmDam">Resultat </Link>
+        </li>
+
+        <li
+          className={`cursor-pointer ${
+            segment === "info" ? "border-b-2 border-black" : ""
+          }`}
+        >
+          <Link href="/info">Info</Link>
+        </li>
+
+        <li
+          className={`cursor-pointer ${
+            segment === "bilder" ? "border-b-2 border-black" : ""
+          }`}
+        >
+          <Link href="/bilder">Bilder</Link>
+        </li>
 
         <li
           className={`relative cursor-pointer transition-all ${
@@ -82,11 +80,11 @@ const Header = () => {
                 : "opacity-0 invisible pointer-events-none"
             }`}
           >
-            <Link href="/arkiv/5kmDam" onClick={() => setArkivOpen(false)}>
-              <li className="cursor-pointer px-6 py-2 hover:bg-gray-100 transition-colors text-gray-700 hover:text-black rounded-md mx-2">
+            <li className="cursor-pointer px-6 py-2 hover:bg-gray-100 transition-colors text-gray-700 hover:text-black rounded-md mx-2">
+              <Link href="/arkiv/5kmDam" onClick={() => setArkivOpen(false)}>
                 2025
-              </li>
-            </Link>
+              </Link>
+            </li>
           </ul>
         </li>
       </ul>
