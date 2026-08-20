@@ -1,91 +1,124 @@
 [
   {
     "Plac": "1",
-    "Namn": "Anna Vilén",
-    "Klubb": "FALKENBERG",
-    "E1": "40",
-    "E2": "38",
-    "Totalt": "78"
-  },
-  {
-    "Plac": "2",
     "Namn": "Anette Ottosson",
     "Klubb": "FALKENBERGS RR",
     "E1": "39",
     "E2": "36",
-    "Totalt": "75"
+    "E3": "32",
+    "E4": "",
+    "E5": "",
+    "Totalt": "107"
   },
   {
-    "Plac": "3",
-    "Namn": "Pia Olsson",
-    "Klubb": "ÄLMHULT",
-    "E1": "33",
-    "E2": "33",
-    "Totalt": "66"
-  },
-  {
-    "Plac": "4",
+    "Plac": "2",
     "Namn": "Rebecka Franzén",
     "Klubb": "FALKENBERG",
     "E1": "31",
     "E2": "32",
-    "Totalt": "63"
+    "E3": "28",
+    "E4": "",
+    "E5": "",
+    "Totalt": "91"
   },
   {
-    "Plac": "5",
-    "Namn": "Ann Willbrink",
-    "Klubb": "VILJANN",
-    "E1": "26",
-    "E2": "24",
-    "Totalt": "50"
-  },
-  {
-    "Plac": "6",
-    "Namn": "Jennie Bengtsson",
-    "Klubb": "ULLARED",
-    "E1": "27",
-    "E2": "22",
-    "Totalt": "49"
-  },
-  {
-    "Plac": "7",
-    "Namn": "Kristina Franzén",
-    "Klubb": "OK NACKHE",
-    "E1": "22",
-    "E2": "26",
-    "Totalt": "48"
-  },
-  {
-    "Plac": "8",
+    "Plac": "3",
     "Namn": "Caroline Casparson",
     "Klubb": "TERRIBLE TUESDAYS ATHLETIC CLUB",
     "E1": "",
     "E2": "40",
-    "Totalt": "40"
+    "E3": "39",
+    "E4": "",
+    "E5": "",
+    "Totalt": "79"
   },
   {
-    "Plac": "9",
-    "Namn": "Viktoria Hägg",
-    "Klubb": "HALMSTAD OK / SIMLÅNGSDALENS IF",
-    "E1": "",
-    "E2": "39",
-    "Totalt": "39"
+    "Plac": "4",
+    "Namn": "Anna Vilén",
+    "Klubb": "FALKENBERG",
+    "E1": "40",
+    "E2": "38",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "78"
   },
   {
-    "Plac": "10",
+    "Plac": "5",
+    "Namn": "Jennie Bengtsson",
+    "Klubb": "ULLARED",
+    "E1": "27",
+    "E2": "22",
+    "E3": "29",
+    "E4": "",
+    "E5": "",
+    "Totalt": "78"
+  },
+  {
+    "Plac": "6",
     "Namn": "Malin Grip",
     "Klubb": "FALKENBERG ALLSTARS",
     "E1": "38",
     "E2": "",
-    "Totalt": "38"
+    "E3": "35",
+    "E4": "",
+    "E5": "",
+    "Totalt": "73"
+  },
+  {
+    "Plac": "7",
+    "Namn": "Ann Willbrink",
+    "Klubb": "VILJANN",
+    "E1": "26",
+    "E2": "24",
+    "E3": "20",
+    "E4": "",
+    "E5": "",
+    "Totalt": "70"
+  },
+  {
+    "Plac": "8",
+    "Namn": "Kristina Franzén",
+    "Klubb": "OK NACKHE",
+    "E1": "22",
+    "E2": "26",
+    "E3": "19",
+    "E4": "",
+    "E5": "",
+    "Totalt": "67"
+  },
+  {
+    "Plac": "9",
+    "Namn": "Pia Olsson",
+    "Klubb": "ÄLMHULT",
+    "E1": "33",
+    "E2": "33",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "66"
+  },
+  {
+    "Plac": "10",
+    "Namn": "Fanny Bengtsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "30",
+    "E3": "26",
+    "E4": "",
+    "E5": "",
+    "Totalt": "56"
   },
   {
     "Plac": "11",
-    "Namn": "Elin Cederkrantz",
-    "Klubb": "VEDDIGE",
-    "E1": "17",
-    "E2": "21",
-    "Totalt": "38"
+    "Namn": "Rebecka Wennersten",
+    "Klubb": "FALKENBERG",
+    "E1": "19",
+    "E2": "18",
+    "E3": "18",
+    "E4": "",
+    "E5": "",
+    "Totalt": "55"
   },
   {
     "Plac": "12",
@@ -93,374 +126,801 @@
     "Klubb": "ULLARED",
     "E1": "37",
     "E2": "",
-    "Totalt": "37"
+    "E3": "11",
+    "E4": "",
+    "E5": "",
+    "Totalt": "48"
   },
   {
-    "Plac": "12",
-    "Namn": "Johanna Johansson",
-    "Klubb": "IF RIGOR",
-    "E1": "",
-    "E2": "37",
-    "Totalt": "37"
-  },
-  {
-    "Plac": "14",
-    "Namn": "Rebecka Wennersten",
-    "Klubb": "FALKENBERG",
-    "E1": "19",
-    "E2": "18",
-    "Totalt": "37"
-  },
-  {
-    "Plac": "15",
-    "Namn": "Elsa Bråhn",
-    "Klubb": "BURSERYDS IF",
-    "E1": "36",
-    "E2": "",
-    "Totalt": "36"
-  },
-  {
-    "Plac": "16",
-    "Namn": "Hanna Bråhn",
-    "Klubb": "BURSERYDS IF",
-    "E1": "35",
-    "E2": "",
-    "Totalt": "35"
-  },
-  {
-    "Plac": "16",
-    "Namn": "Anna Thornberg",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "35",
-    "Totalt": "35"
-  },
-  {
-    "Plac": "18",
-    "Namn": "Johanna Sangare",
-    "Klubb": "YEEHAW",
-    "E1": "34",
-    "E2": "",
-    "Totalt": "34"
-  },
-  {
-    "Plac": "18",
-    "Namn": "Amanda Svensson",
-    "Klubb": "ÄTRANS IF",
-    "E1": "",
-    "E2": "34",
-    "Totalt": "34"
-  },
-  {
-    "Plac": "20",
-    "Namn": "Karin Hjort",
-    "Klubb": "KULLAS HÄLSA",
-    "E1": "14",
-    "E2": "20",
-    "Totalt": "34"
-  },
-  {
-    "Plac": "21",
-    "Namn": "Malin Larsson",
-    "Klubb": "TRÖNNINGE",
-    "E1": "32",
-    "E2": "",
-    "Totalt": "32"
-  },
-  {
-    "Plac": "22",
-    "Namn": "Johanna Ekman Hassel",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "31",
-    "Totalt": "31"
-  },
-  {
-    "Plac": "23",
-    "Namn": "Katrin Vidback",
-    "Klubb": "TORUP",
-    "E1": "30",
-    "E2": "",
-    "Totalt": "30"
-  },
-  {
-    "Plac": "23",
-    "Namn": "Fanny Bengtsson",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "30",
-    "Totalt": "30"
-  },
-  {
-    "Plac": "25",
-    "Namn": "Vilma Malmgren",
-    "Klubb": "GÖTEBORG",
-    "E1": "29",
-    "E2": "",
-    "Totalt": "29"
-  },
-  {
-    "Plac": "25",
-    "Namn": "Allis Gustafsson",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "29",
-    "Totalt": "29"
-  },
-  {
-    "Plac": "27",
-    "Namn": "Ida Brodén",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "28",
-    "Totalt": "28"
-  },
-  {
-    "Plac": "27",
-    "Namn": "Stina Nyman",
-    "Klubb": "TRIO RUNNERS",
-    "E1": "28",
-    "E2": "",
-    "Totalt": "28"
-  },
-  {
-    "Plac": "29",
-    "Namn": "Berit Andersson",
-    "Klubb": "FALKENBERGS OK",
-    "E1": "11",
-    "E2": "17",
-    "Totalt": "28"
-  },
-  {
-    "Plac": "30",
-    "Namn": "Jenny Lindqvist",
-    "Klubb": "RANAGÅRD RUNNERS",
-    "E1": "12",
-    "E2": "16",
-    "Totalt": "28"
-  },
-  {
-    "Plac": "31",
-    "Namn": "Celine Brandt",
-    "Klubb": "FALKENBERGS OUTDOOR TRAINING",
-    "E1": "",
-    "E2": "27",
-    "Totalt": "27"
-  },
-  {
-    "Plac": "32",
-    "Namn": "Carina Börjesson",
-    "Klubb": "SÖDERÅSENS FK",
-    "E1": "",
-    "E2": "25",
-    "Totalt": "25"
-  },
-  {
-    "Plac": "32",
-    "Namn": "Ebba Barrett",
-    "Klubb": "VESSLUNDA RUNNERS",
-    "E1": "25",
-    "E2": "",
-    "Totalt": "25"
-  },
-  {
-    "Plac": "34",
-    "Namn": "Elinor Svensson",
-    "Klubb": "FALKENBERG",
-    "E1": "24",
-    "E2": "",
-    "Totalt": "24"
-  },
-  {
-    "Plac": "35",
-    "Namn": "Matilda Andersson",
-    "Klubb": "VARBERGS KUTERZ",
-    "E1": "23",
-    "E2": "",
-    "Totalt": "23"
-  },
-  {
-    "Plac": "35",
-    "Namn": "Marie Hjelmqvist",
-    "Klubb": "UGOIF",
-    "E1": "",
-    "E2": "23",
-    "Totalt": "23"
-  },
-  {
-    "Plac": "37",
-    "Namn": "Lina Göransson",
-    "Klubb": "-",
-    "E1": "21",
-    "E2": "",
-    "Totalt": "21"
-  },
-  {
-    "Plac": "38",
-    "Namn": "Thea Lempiäinen",
-    "Klubb": "FALKENBERG",
-    "E1": "20",
-    "E2": "",
-    "Totalt": "20"
-  },
-  {
-    "Plac": "39",
-    "Namn": "Therese Åkesson",
-    "Klubb": "STAY MAGIC",
-    "E1": "",
-    "E2": "19",
-    "Totalt": "19"
-  },
-  {
-    "Plac": "40",
-    "Namn": "Ingrid Dahlberg",
-    "Klubb": "SOLSKENSFARMARNA",
-    "E1": "18",
-    "E2": "",
-    "Totalt": "18"
-  },
-  {
-    "Plac": "41",
-    "Namn": "Magdalena Bengtsson",
-    "Klubb": "HYLTEBRUK",
-    "E1": "16",
-    "E2": "",
-    "Totalt": "16"
-  },
-  {
-    "Plac": "42",
-    "Namn": "Louise Barrett",
-    "Klubb": "VESSLUNDA RUNNERS",
-    "E1": "15",
-    "E2": "",
-    "Totalt": "15"
-  },
-  {
-    "Plac": "42",
-    "Namn": "Karin Pettersson",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "15",
-    "Totalt": "15"
-  },
-  {
-    "Plac": "44",
-    "Namn": "Amelie Hellström",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "14",
-    "Totalt": "14"
-  },
-  {
-    "Plac": "45",
-    "Namn": "Anna Melin",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "13",
-    "Totalt": "13"
-  },
-  {
-    "Plac": "45",
-    "Namn": "Kicki Hadartz",
-    "Klubb": "FALKENBERG",
-    "E1": "13",
-    "E2": "",
-    "Totalt": "13"
-  },
-  {
-    "Plac": "47",
-    "Namn": "Helene Bergholtz",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "4",
-    "E2": "9",
-    "Totalt": "13"
-  },
-  {
-    "Plac": "48",
+    "Plac": "13",
     "Namn": "Lisa Front Latorre",
     "Klubb": "FALKENBERG",
     "E1": "7",
     "E2": "6",
-    "Totalt": "13"
+    "E3": "31",
+    "E4": "",
+    "E5": "",
+    "Totalt": "44"
   },
   {
-    "Plac": "49",
-    "Namn": "Maria Stabbforsmo",
+    "Plac": "14",
+    "Namn": "Jenny Lindqvist",
+    "Klubb": "RANAGÅRD RUNNERS",
+    "E1": "12",
+    "E2": "16",
+    "E3": "14",
+    "E4": "",
+    "E5": "",
+    "Totalt": "42"
+  },
+  {
+    "Plac": "15",
+    "Namn": "Jonna Hedbys",
+    "Klubb": "IFK HALMSTAD",
+    "E1": "",
+    "E2": "",
+    "E3": "40",
+    "E4": "",
+    "E5": "",
+    "Totalt": "40"
+  },
+  {
+    "Plac": "16",
+    "Namn": "Viktoria Hägg",
+    "Klubb": "HALMSTAD OK / SIMLÅNGSDALENS IF",
+    "E1": "",
+    "E2": "39",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "39"
+  },
+  {
+    "Plac": "17",
+    "Namn": "Weronika Brzuchalska",
+    "Klubb": "HÄLLE IF",
+    "E1": "",
+    "E2": "",
+    "E3": "38",
+    "E4": "",
+    "E5": "",
+    "Totalt": "38"
+  },
+  {
+    "Plac": "18",
+    "Namn": "Elin Cederkrantz",
+    "Klubb": "VEDDIGE",
+    "E1": "17",
+    "E2": "21",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "38"
+  },
+  {
+    "Plac": "19",
+    "Namn": "Janette Persson",
+    "Klubb": "BERGSPRING SPORTSCLUB",
+    "E1": "",
+    "E2": "",
+    "E3": "37",
+    "E4": "",
+    "E5": "",
+    "Totalt": "37"
+  },
+  {
+    "Plac": "19",
+    "Namn": "Johanna Johansson",
+    "Klubb": "IF RIGOR",
+    "E1": "",
+    "E2": "37",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "37"
+  },
+  {
+    "Plac": "21",
+    "Namn": "Elsa Bråhn",
+    "Klubb": "BURSERYDS IF",
+    "E1": "36",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "36"
+  },
+  {
+    "Plac": "21",
+    "Namn": "Anna Vilén",
+    "Klubb": "FALKENBERG ENERGI AB",
+    "E1": "",
+    "E2": "",
+    "E3": "36",
+    "E4": "",
+    "E5": "",
+    "Totalt": "36"
+  },
+  {
+    "Plac": "23",
+    "Namn": "Anna Thornberg",
     "Klubb": "-",
     "E1": "",
-    "E2": "12",
-    "Totalt": "12"
+    "E2": "35",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35"
   },
   {
-    "Plac": "50",
-    "Namn": "Lisa Fallhagen",
-    "Klubb": "ROLFSTORP HOOLIGANZ",
+    "Plac": "23",
+    "Namn": "Hanna Bråhn",
+    "Klubb": "BURSERYDS IF",
+    "E1": "35",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35"
+  },
+  {
+    "Plac": "25",
+    "Namn": "Thea Lempiäinen",
+    "Klubb": "FALKENBERG",
+    "E1": "20",
+    "E2": "",
+    "E3": "15",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35"
+  },
+  {
+    "Plac": "26",
+    "Namn": "Therese Åkesson",
+    "Klubb": "STAY MAGIC",
     "E1": "",
-    "E2": "11",
-    "Totalt": "11"
+    "E2": "19",
+    "E3": "16",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35"
+  },
+  {
+    "Plac": "27",
+    "Namn": "Johanna Sangare",
+    "Klubb": "YEEHAW",
+    "E1": "34",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34"
+  },
+  {
+    "Plac": "27",
+    "Namn": "Amanda Svensson",
+    "Klubb": "ÄTRANS IF",
+    "E1": "",
+    "E2": "34",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34"
+  },
+  {
+    "Plac": "27",
+    "Namn": "Sara Lundin",
+    "Klubb": "SPRÅNG TRAIL CLUB",
+    "E1": "",
+    "E2": "",
+    "E3": "34",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34"
+  },
+  {
+    "Plac": "30",
+    "Namn": "Karin Hjort",
+    "Klubb": "KULLAS HÄLSA",
+    "E1": "14",
+    "E2": "20",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34"
+  },
+  {
+    "Plac": "31",
+    "Namn": "Louise Nilsson",
+    "Klubb": "FALKENBERG ALLSTARS",
+    "E1": "",
+    "E2": "",
+    "E3": "33",
+    "E4": "",
+    "E5": "",
+    "Totalt": "33"
+  },
+  {
+    "Plac": "32",
+    "Namn": "Malin Larsson",
+    "Klubb": "TRÖNNINGE",
+    "E1": "32",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "32"
+  },
+  {
+    "Plac": "33",
+    "Namn": "Johanna Ekman Hassel",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "31",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "31"
+  },
+  {
+    "Plac": "34",
+    "Namn": "Katrin Vidback",
+    "Klubb": "TORUP",
+    "E1": "30",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "30"
+  },
+  {
+    "Plac": "34",
+    "Namn": "Amanda Svensson",
+    "Klubb": "TOFTENS JULGRANAR",
+    "E1": "",
+    "E2": "",
+    "E3": "30",
+    "E4": "",
+    "E5": "",
+    "Totalt": "30"
+  },
+  {
+    "Plac": "36",
+    "Namn": "Allis Gustafsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "29",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "29"
+  },
+  {
+    "Plac": "36",
+    "Namn": "Vilma Malmgren",
+    "Klubb": "GÖTEBORG",
+    "E1": "29",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "29"
+  },
+  {
+    "Plac": "38",
+    "Namn": "Stina Nyman",
+    "Klubb": "TRIO RUNNERS",
+    "E1": "28",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "28"
+  },
+  {
+    "Plac": "38",
+    "Namn": "Ida Brodén",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "28",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "28"
+  },
+  {
+    "Plac": "40",
+    "Namn": "Berit Andersson",
+    "Klubb": "FALKENBERGS OK",
+    "E1": "11",
+    "E2": "17",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "28"
+  },
+  {
+    "Plac": "41",
+    "Namn": "Celine Brandt",
+    "Klubb": "MOTIONSHUSET",
+    "E1": "",
+    "E2": "",
+    "E3": "27",
+    "E4": "",
+    "E5": "",
+    "Totalt": "27"
+  },
+  {
+    "Plac": "41",
+    "Namn": "Celine Brandt",
+    "Klubb": "FALKENBERGS OUTDOOR TRAINING",
+    "E1": "",
+    "E2": "27",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "27"
+  },
+  {
+    "Plac": "43",
+    "Namn": "Ebba Barrett",
+    "Klubb": "VESSLUNDA RUNNERS",
+    "E1": "25",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "25"
+  },
+  {
+    "Plac": "43",
+    "Namn": "Lovisa Bengtsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "25",
+    "E4": "",
+    "E5": "",
+    "Totalt": "25"
+  },
+  {
+    "Plac": "43",
+    "Namn": "Carina Börjesson",
+    "Klubb": "SÖDERÅSENS FK",
+    "E1": "",
+    "E2": "25",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "25"
+  },
+  {
+    "Plac": "46",
+    "Namn": "Maricka Olsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "24",
+    "E4": "",
+    "E5": "",
+    "Totalt": "24"
+  },
+  {
+    "Plac": "46",
+    "Namn": "Elinor Svensson",
+    "Klubb": "FALKENBERG",
+    "E1": "24",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "24"
+  },
+  {
+    "Plac": "48",
+    "Namn": "Marie Hjelmqvist",
+    "Klubb": "UGOIF",
+    "E1": "",
+    "E2": "23",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "23"
+  },
+  {
+    "Plac": "48",
+    "Namn": "Frida Mårtensson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "23",
+    "E4": "",
+    "E5": "",
+    "Totalt": "23"
+  },
+  {
+    "Plac": "48",
+    "Namn": "Matilda Andersson",
+    "Klubb": "VARBERGS KUTERZ",
+    "E1": "23",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "23"
   },
   {
     "Plac": "51",
+    "Namn": "Sofia Sonestam",
+    "Klubb": "RUNACADEMY",
+    "E1": "",
+    "E2": "",
+    "E3": "22",
+    "E4": "",
+    "E5": "",
+    "Totalt": "22"
+  },
+  {
+    "Plac": "52",
+    "Namn": "Lina Göransson",
+    "Klubb": "-",
+    "E1": "21",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "21"
+  },
+  {
+    "Plac": "52",
+    "Namn": "Mimmi Eklund Jönsson",
+    "Klubb": "OCEAN RUNNING CLUB",
+    "E1": "",
+    "E2": "",
+    "E3": "21",
+    "E4": "",
+    "E5": "",
+    "Totalt": "21"
+  },
+  {
+    "Plac": "54",
+    "Namn": "Ingrid Dahlberg",
+    "Klubb": "SOLSKENSFARMARNA",
+    "E1": "18",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "18"
+  },
+  {
+    "Plac": "55",
+    "Namn": "Una Lucia Crnkovic",
+    "Klubb": "FALKENBERG",
+    "E1": "",
+    "E2": "",
+    "E3": "17",
+    "E4": "",
+    "E5": "",
+    "Totalt": "17"
+  },
+  {
+    "Plac": "56",
+    "Namn": "Magdalena Bengtsson",
+    "Klubb": "HYLTEBRUK",
+    "E1": "16",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "16"
+  },
+  {
+    "Plac": "57",
+    "Namn": "Karin Pettersson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "15",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "15"
+  },
+  {
+    "Plac": "57",
+    "Namn": "Louise Barrett",
+    "Klubb": "VESSLUNDA RUNNERS",
+    "E1": "15",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "15"
+  },
+  {
+    "Plac": "59",
+    "Namn": "Amelie Hellström",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "14",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "14"
+  },
+  {
+    "Plac": "60",
+    "Namn": "Anna Melin",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "13",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "60",
+    "Namn": "Kicki Hadartz",
+    "Klubb": "FALKENBERG",
+    "E1": "13",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "60",
+    "Namn": "Isabella Westerström",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "13",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "63",
+    "Namn": "Helene Bergholtz",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "4",
+    "E2": "9",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "64",
     "Namn": "Emma Paulander",
     "Klubb": "VEGAN RUNNERS IK",
     "E1": "3",
     "E2": "8",
+    "E3": "2",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13"
+  },
+  {
+    "Plac": "65",
+    "Namn": "Maria Stabbforsmo",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "12",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "12"
+  },
+  {
+    "Plac": "65",
+    "Namn": "Anna Oscarson",
+    "Klubb": "HALLANDS NYHETER (WARBERG RUNNING CLUB)",
+    "E1": "",
+    "E2": "",
+    "E3": "12",
+    "E4": "",
+    "E5": "",
+    "Totalt": "12"
+  },
+  {
+    "Plac": "67",
+    "Namn": "Lisa Fallhagen",
+    "Klubb": "ROLFSTORP HOOLIGANZ",
+    "E1": "",
+    "E2": "11",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "11"
   },
   {
-    "Plac": "52",
-    "Namn": "Elin Malmgren",
-    "Klubb": "MALMGRENS KLUBB",
-    "E1": "10",
+    "Plac": "68",
+    "Namn": "Heidi Carlsson",
+    "Klubb": "ROLFSTORP",
+    "E1": "",
     "E2": "",
+    "E3": "10",
+    "E4": "",
+    "E5": "",
     "Totalt": "10"
   },
   {
-    "Plac": "52",
+    "Plac": "68",
     "Namn": "Kristina Pettersson",
     "Klubb": "-",
     "E1": "",
     "E2": "10",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "10"
   },
   {
-    "Plac": "54",
+    "Plac": "68",
+    "Namn": "Elin Malmgren",
+    "Klubb": "MALMGRENS KLUBB",
+    "E1": "10",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "10"
+  },
+  {
+    "Plac": "71",
     "Namn": "Linda Milleding",
     "Klubb": "VARBERG",
     "E1": "9",
     "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "9"
   },
   {
-    "Plac": "55",
+    "Plac": "71",
+    "Namn": "Inga Peuß",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "9",
+    "E4": "",
+    "E5": "",
+    "Totalt": "9"
+  },
+  {
+    "Plac": "73",
+    "Namn": "Kayla Santana Välimäki",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "8",
+    "E4": "",
+    "E5": "",
+    "Totalt": "8"
+  },
+  {
+    "Plac": "73",
     "Namn": "Belinda Djupdahl",
     "Klubb": "VARBERG",
     "E1": "8",
     "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "8"
   },
   {
-    "Plac": "56",
+    "Plac": "75",
     "Namn": "Mia Ehlin",
     "Klubb": "RUNACADEMY",
     "E1": "",
     "E2": "7",
+    "E3": "1",
+    "E4": "",
+    "E5": "",
+    "Totalt": "8"
+  },
+  {
+    "Plac": "76",
+    "Namn": "Berit Andersson",
+    "Klubb": "FALKENBERG",
+    "E1": "",
+    "E2": "",
+    "E3": "7",
+    "E4": "",
+    "E5": "",
     "Totalt": "7"
   },
   {
-    "Plac": "57",
+    "Plac": "77",
+    "Namn": "Maja Eskilsson",
+    "Klubb": "SITORA CONSULTING AB",
+    "E1": "",
+    "E2": "",
+    "E3": "6",
+    "E4": "",
+    "E5": "",
+    "Totalt": "6"
+  },
+  {
+    "Plac": "77",
     "Namn": "Madelene Johansson",
     "Klubb": "LILLA SLÄTT",
     "E1": "6",
     "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "6"
   },
   {
-    "Plac": "58",
+    "Plac": "79",
+    "Namn": "Sandra Smilesen",
+    "Klubb": "KROGSERED IK",
+    "E1": "",
+    "E2": "",
+    "E3": "5",
+    "E4": "",
+    "E5": "",
+    "Totalt": "5"
+  },
+  {
+    "Plac": "79",
     "Namn": "Josefine Johansson",
     "Klubb": "LILLA SLÄTT",
     "E1": "5",
     "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
     "Totalt": "5"
+  },
+  {
+    "Plac": "81",
+    "Namn": "Ana Maria Karlson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "4",
+    "E4": "",
+    "E5": "",
+    "Totalt": "4"
+  },
+  {
+    "Plac": "82",
+    "Namn": "Maryam Azizi",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "3",
+    "E4": "",
+    "E5": "",
+    "Totalt": "3"
+  },
+  {
+    "Plac": "83",
+    "Namn": "Catarina Larsson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "",
+    "E3": "1",
+    "E4": "",
+    "E5": "",
+    "Totalt": "1"
+  },
+  {
+    "Plac": "83",
+    "Namn": "Kristina Josefsson",
+    "Klubb": "FALKENBERGS RR",
+    "E1": "",
+    "E2": "",
+    "E3": "1",
+    "E4": "",
+    "E5": "",
+    "Totalt": "1"
   }
 ]
