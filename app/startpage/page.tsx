@@ -105,13 +105,13 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://www.facebook.com/FalkenbergAllstars"
+              href="https://raceid.com/sv/races/15433/about"
               target="_blank"
               rel="noopener noreferrer"
             >
               <div className="flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105">
                 <Image
-                  src="/images/FalkenbergsAllstars.jpg"
+                  src="/images/FalkTrailen.png"
                   alt="Allstars"
                   width={400} // Ange bildens bredd
                   height={400} // Ange bildens höjd
