@@ -5,87 +5,131 @@
     "Klubb": "FALKENBERGS RR",
     "E1": "40",
     "E2": "38",
-    "Totalt": "78"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "78",
+    "Cup": "78"
   },
   {
     "Plac": "2",
+    "Namn": "Louise Karlsson",
+    "Klubb": "IK STERN",
+    "E1": "39",
+    "E2": "39",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "78",
+    "Cup": "78"
+  },
+  {
+    "Plac": "3",
     "Namn": "Isabel Jacobsen",
     "Klubb": "FALKENBERG",
     "E1": "38",
     "E2": "36",
-    "Totalt": "74"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "74",
+    "Cup": "74"
   },
   {
-    "Plac": "3",
+    "Plac": "4",
     "Namn": "Louise Nilsson",
     "Klubb": "FALKENBERG ALLSTARS",
     "E1": "37",
     "E2": "37",
-    "Totalt": "74"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "74",
+    "Cup": "74"
   },
   {
-    "Plac": "4",
+    "Plac": "5",
     "Namn": "Carina Rikardson",
     "Klubb": "KROGSERED IK",
     "E1": "32",
     "E2": "32",
-    "Totalt": "64"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "64",
+    "Cup": "64"
   },
   {
-    "Plac": "5",
+    "Plac": "6",
     "Namn": "Emma Alfredsson",
     "Klubb": "VARBERG",
     "E1": "29",
     "E2": "30",
-    "Totalt": "59"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "59",
+    "Cup": "59"
   },
   {
-    "Plac": "6",
+    "Plac": "7",
+    "Namn": "Sara Persson",
+    "Klubb": "HIMLE KÖK",
+    "E1": "27",
+    "E2": "26",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "53",
+    "Cup": "53"
+  },
+  {
+    "Plac": "8",
     "Namn": "Ing-Marie Samuelsson",
     "Klubb": "IK TRENNE ULLARED",
     "E1": "26",
     "E2": "25",
-    "Totalt": "51"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "51",
+    "Cup": "51"
   },
   {
-    "Plac": "7",
+    "Plac": "9",
     "Namn": "Marianne Johansson",
     "Klubb": "KROGSEREDS IK",
     "E1": "25",
     "E2": "24",
-    "Totalt": "49"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "49",
+    "Cup": "49"
   },
   {
-    "Plac": "8",
+    "Plac": "10",
     "Namn": "Josefine Björklund",
     "Klubb": "VARBERG",
     "E1": "22",
     "E2": "21",
-    "Totalt": "43"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "43",
+    "Cup": "43"
   },
   {
-    "Plac": "9",
+    "Plac": "11",
     "Namn": "Vanja Karlsson",
     "Klubb": "HALMSTAD GARNISONS IDROTTSFÖRENING",
     "E1": "",
     "E2": "40",
-    "Totalt": "40"
-  },
-  {
-    "Plac": "10",
-    "Namn": "Louise Karlsson",
-    "Klubb": "IK STERN",
-    "E1": "39",
-    "E2": "",
-    "Totalt": "39"
-  },
-  {
-    "Plac": "10",
-    "Namn": "Louise Karlsson",
-    "Klubb": "SURTE RÖNNERS",
-    "E1": "",
-    "E2": "39",
-    "Totalt": "39"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "40",
+    "Cup": "40"
   },
   {
     "Plac": "12",
@@ -93,7 +137,11 @@
     "Klubb": "OK GLÄNTAN",
     "E1": "36",
     "E2": "",
-    "Totalt": "36"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "36",
+    "Cup": "36"
   },
   {
     "Plac": "13",
@@ -101,7 +149,11 @@
     "Klubb": "ORUST BRUKSHUNDSKLUBB",
     "E1": "",
     "E2": "35",
-    "Totalt": "35"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35",
+    "Cup": "35"
   },
   {
     "Plac": "13",
@@ -109,15 +161,11 @@
     "Klubb": "WESSIGEBRIDGE",
     "E1": "35",
     "E2": "",
-    "Totalt": "35"
-  },
-  {
-    "Plac": "15",
-    "Namn": "Anna Norén",
-    "Klubb": "VARBERG",
-    "E1": "",
-    "E2": "34",
-    "Totalt": "34"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "35",
+    "Cup": "35"
   },
   {
     "Plac": "15",
@@ -125,7 +173,23 @@
     "Klubb": "IK TRENNE ULLARED",
     "E1": "34",
     "E2": "",
-    "Totalt": "34"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34",
+    "Cup": "34"
+  },
+  {
+    "Plac": "15",
+    "Namn": "Anna Norén",
+    "Klubb": "VARBERG",
+    "E1": "",
+    "E2": "34",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34",
+    "Cup": "34"
   },
   {
     "Plac": "17",
@@ -133,7 +197,11 @@
     "Klubb": "ONSALA",
     "E1": "16",
     "E2": "18",
-    "Totalt": "34"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "34",
+    "Cup": "34"
   },
   {
     "Plac": "18",
@@ -141,7 +209,11 @@
     "Klubb": "KINNARED",
     "E1": "33",
     "E2": "",
-    "Totalt": "33"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "33",
+    "Cup": "33"
   },
   {
     "Plac": "18",
@@ -149,7 +221,11 @@
     "Klubb": "-",
     "E1": "",
     "E2": "33",
-    "Totalt": "33"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "33",
+    "Cup": "33"
   },
   {
     "Plac": "20",
@@ -157,15 +233,11 @@
     "Klubb": "ASKOME",
     "E1": "15",
     "E2": "17",
-    "Totalt": "32"
-  },
-  {
-    "Plac": "21",
-    "Namn": "Fanny Dymne",
-    "Klubb": "HALMSTAD",
-    "E1": "31",
-    "E2": "",
-    "Totalt": "31"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "32",
+    "Cup": "32"
   },
   {
     "Plac": "21",
@@ -173,7 +245,23 @@
     "Klubb": "HALMSTAD GARNISON",
     "E1": "",
     "E2": "31",
-    "Totalt": "31"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "31",
+    "Cup": "31"
+  },
+  {
+    "Plac": "21",
+    "Namn": "Fanny Dymne",
+    "Klubb": "HALMSTAD",
+    "E1": "31",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "31",
+    "Cup": "31"
   },
   {
     "Plac": "23",
@@ -181,7 +269,11 @@
     "Klubb": "TVÅÅKER",
     "E1": "30",
     "E2": "",
-    "Totalt": "30"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "30",
+    "Cup": "30"
   },
   {
     "Plac": "24",
@@ -189,7 +281,11 @@
     "Klubb": "FALKENBERGS OK",
     "E1": "11",
     "E2": "19",
-    "Totalt": "30"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "30",
+    "Cup": "30"
   },
   {
     "Plac": "25",
@@ -197,15 +293,11 @@
     "Klubb": "-",
     "E1": "",
     "E2": "29",
-    "Totalt": "29"
-  },
-  {
-    "Plac": "26",
-    "Namn": "Josefin Söderström",
-    "Klubb": "KROGSEREDS IK",
-    "E1": "28",
-    "E2": "",
-    "Totalt": "28"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "29",
+    "Cup": "29"
   },
   {
     "Plac": "26",
@@ -213,7 +305,23 @@
     "Klubb": "-",
     "E1": "",
     "E2": "28",
-    "Totalt": "28"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "28",
+    "Cup": "28"
+  },
+  {
+    "Plac": "26",
+    "Namn": "Josefin Söderström",
+    "Klubb": "KROGSEREDS IK",
+    "E1": "28",
+    "E2": "",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "28",
+    "Cup": "28"
   },
   {
     "Plac": "28",
@@ -221,158 +329,214 @@
     "Klubb": "-",
     "E1": "",
     "E2": "27",
-    "Totalt": "27"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "27",
+    "Cup": "27"
   },
   {
-    "Plac": "28",
-    "Namn": "Sara Persson",
-    "Klubb": "TVÅÅKER",
-    "E1": "27",
-    "E2": "",
-    "Totalt": "27"
-  },
-  {
-    "Plac": "30",
-    "Namn": "Sara Persson",
-    "Klubb": "HIMLE KÖK",
-    "E1": "",
-    "E2": "26",
-    "Totalt": "26"
-  },
-  {
-    "Plac": "31",
+    "Plac": "29",
     "Namn": "Kristina Josefsson",
     "Klubb": "FALKENBERGS RR",
     "E1": "10",
     "E2": "16",
-    "Totalt": "26"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "26",
+    "Cup": "26"
   },
   {
-    "Plac": "32",
+    "Plac": "30",
     "Namn": "Annelie Angel",
     "Klubb": "FALKENBERGSRR",
     "E1": "24",
     "E2": "",
-    "Totalt": "24"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "24",
+    "Cup": "24"
   },
   {
-    "Plac": "33",
-    "Namn": "Karin Torstensson",
-    "Klubb": "-",
-    "E1": "",
-    "E2": "23",
-    "Totalt": "23"
-  },
-  {
-    "Plac": "33",
+    "Plac": "31",
     "Namn": "Ida Algotsson",
     "Klubb": "ALLBERGERS",
     "E1": "23",
     "E2": "",
-    "Totalt": "23"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "23",
+    "Cup": "23"
   },
   {
-    "Plac": "35",
+    "Plac": "31",
+    "Namn": "Karin Torstensson",
+    "Klubb": "-",
+    "E1": "",
+    "E2": "23",
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "23",
+    "Cup": "23"
+  },
+  {
+    "Plac": "33",
     "Namn": "Camilla Gustafsson",
     "Klubb": "SOK KNALLEN",
     "E1": "",
     "E2": "22",
-    "Totalt": "22"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "22",
+    "Cup": "22"
   },
   {
-    "Plac": "36",
+    "Plac": "34",
     "Namn": "Linn Lackinger",
     "Klubb": "KROGSERED IK",
     "E1": "21",
     "E2": "",
-    "Totalt": "21"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "21",
+    "Cup": "21"
   },
   {
-    "Plac": "37",
+    "Plac": "35",
     "Namn": "Susanna Gustafsson",
     "Klubb": "-",
     "E1": "",
     "E2": "20",
-    "Totalt": "20"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "20",
+    "Cup": "20"
   },
   {
-    "Plac": "37",
+    "Plac": "35",
     "Namn": "Anita Lackinger",
     "Klubb": "KROGSEREDS IK",
     "E1": "20",
     "E2": "",
-    "Totalt": "20"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "20",
+    "Cup": "20"
   },
   {
-    "Plac": "39",
+    "Plac": "37",
     "Namn": "Yasmine Lackinger",
     "Klubb": "KROGSERED IK",
     "E1": "19",
     "E2": "",
-    "Totalt": "19"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "19",
+    "Cup": "19"
   },
   {
-    "Plac": "40",
+    "Plac": "38",
     "Namn": "Gabriella Toldbod",
     "Klubb": "FALKENBERG",
     "E1": "18",
     "E2": "",
-    "Totalt": "18"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "18",
+    "Cup": "18"
   },
   {
-    "Plac": "41",
+    "Plac": "39",
     "Namn": "Anna Sjögerén",
     "Klubb": "FALKENBERG",
     "E1": "17",
     "E2": "",
-    "Totalt": "17"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "17",
+    "Cup": "17"
   },
   {
-    "Plac": "42",
+    "Plac": "40",
     "Namn": "Anna Mårtensson",
     "Klubb": "-",
     "E1": "",
     "E2": "15",
-    "Totalt": "15"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "15",
+    "Cup": "15"
   },
   {
-    "Plac": "43",
+    "Plac": "41",
     "Namn": "Monica Carlsson",
     "Klubb": "FEGEN",
     "E1": "14",
     "E2": "",
-    "Totalt": "14"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "14",
+    "Cup": "14"
   },
   {
-    "Plac": "44",
+    "Plac": "42",
     "Namn": "Susanne Persson",
     "Klubb": "KUNGSÄTER",
     "E1": "13",
     "E2": "",
-    "Totalt": "13"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13",
+    "Cup": "13"
   },
   {
-    "Plac": "44",
+    "Plac": "42",
     "Namn": "Elisabeth Jonesund",
     "Klubb": "KUNGSÄTER",
     "E1": "13",
     "E2": "",
-    "Totalt": "13"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "13",
+    "Cup": "13"
   },
   {
-    "Plac": "46",
+    "Plac": "44",
     "Namn": "Katarina Sonnhag",
     "Klubb": "KROGSEREDS IK",
     "E1": "9",
     "E2": "",
-    "Totalt": "9"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "9",
+    "Cup": "9"
   },
   {
-    "Plac": "47",
+    "Plac": "45",
     "Namn": "Sara Dymne",
     "Klubb": "HOLM",
     "E1": "8",
     "E2": "",
-    "Totalt": "8"
+    "E3": "",
+    "E4": "",
+    "E5": "",
+    "Totalt": "8",
+    "Cup": "8"
   }
 ]
